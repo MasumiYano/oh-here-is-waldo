@@ -12,17 +12,7 @@ import albumentations as alb
 from pathlib import Path
 import tensorflow as tf
 
-# %% md
-## Randomly place waldo on backgrounds
-# %%
-IMAGE_WIDTH = 800
-IMAGE_HEIGHT = 600
 
-SCALE_DOWN_WIDTH = 170
-SCALE_DOWN_HEIGHT = 170
-
-
-# %%
 def resize_background(bg_path, target_width, target_height):
     with Image.open(bg_path) as bg:
         bg_width, bg_height = bg.size
@@ -37,7 +27,6 @@ def resize_background(bg_path, target_width, target_height):
         return resized_bg
 
 
-# %%
 def place_waldo_on_bg(waldo_path, bg_image):
     # Ensure the background is in RGBA
     bg_image = bg_image.convert("RGBA")
@@ -85,7 +74,6 @@ def send_img_to_directory(directory_path, image, file_name):
     image.save(file_path, 'JPEG')
 
 
-# %%
 waldo_path = 'data/images/waldo.png'
 waldo = Image.open(waldo_path)
 background_paths = glob.glob('data/images/*.jpg') + glob.glob('data/images/*.jpeg')
@@ -95,38 +83,27 @@ for i, bg_path in enumerate(background_paths):
     background_with_waldo = place_waldo_on_bg(waldo_path=waldo_path, bg_image=resized_bg)
     file_name = f'bg{i + 1}_with_waldo.jpg'
     send_img_to_directory(directory_path='data/created_images', image=background_with_waldo, file_name=file_name)
-# %% md
-## Label the waldo for each generated picture using labelme
-# %%
-# !labelme
-# %% md
-## Make the image file into array
-# %%
+
 images = tf.data.Dataset.list_files('data/created_images/*.jpg', shuffle=False)
 
 
-# %%
 def load_image(file_path):
     byte_img = tf.io.read_file(file_path)  # byte coded image
     img = tf.io.decode_jpeg(byte_img)  # decote it
     return img
 
 
-# %%
-images = images.map(load_image)  # apply load image function for each value in the dataset.
-# %%
-# batch returns the number of the parameter. In this case, it returns 4 images.
+images = images.map(load_image)
+
 image_generator = images.batch(4).as_numpy_iterator()
-# %%
+
 plot_images = image_generator.next()
-# %%
+
 fig, ax = plt.subplots(ncols=4, figsize=(20, 20))
 for idx, image in enumerate(plot_images):
     ax[idx].imshow(image)
 plt.show()
-# %% md
-## Splitting image and json file into train, test and validation
-# %%
+
 images_dir = 'data/created_images'
 json_dir = 'data/processed_img_info'
 
