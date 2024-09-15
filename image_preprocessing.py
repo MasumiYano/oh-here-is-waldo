@@ -3,6 +3,7 @@ import glob
 import os
 import random
 import json
+import numpy as np
 
 from config import (IMAGE_WIDTH, IMAGE_HEIGHT)
 
@@ -58,10 +59,13 @@ class ImagePreprocessing:
                 include = 1
                 bg.paste(self.waldo, (x_pos, y_pos), self.waldo)
 
-            self.mark_waldo_pos(x_pos, y_pos, waldo_width, waldo_height, bg_filename, include)
+            self._mark_waldo_pos(x_pos, y_pos, waldo_width, waldo_height, bg_filename, include)
             self.waldo_and_backgrounds.append(bg)
 
-    def mark_waldo_pos(self, x_pos, y_pos, waldo_width, waldo_height, bg_filename, include):
+    def convert_to_numpyarray(self):
+        self.waldo_and_backgrounds = [np.array(image) for image in self.waldo_and_backgrounds]
+
+    def _mark_waldo_pos(self, x_pos, y_pos, waldo_width, waldo_height, bg_filename, include):
         file_path = os.path.join(os.getcwd(), "data", "notation.json")
 
         data_dir = os.path.join(os.getcwd(), "data")
@@ -69,15 +73,12 @@ class ImagePreprocessing:
 
         data = {
             "bg_name": os.path.basename(bg_filename),
-            "is_waldo": include
+            "class": include
         }
 
         if include == 1:
             data.update({
-                "x_start": x_pos,
-                "y_start": y_pos,
-                "x_end": x_pos + waldo_width,
-                "y_end": y_pos + waldo_height
+                "bbox": [x_pos, y_pos, x_pos+waldo_width, y_pos+waldo_height]
             })
 
         if os.path.exists(file_path):

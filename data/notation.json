@@ -1,0 +1,5912 @@
+[
+    {
+        "bg_name": "wally_bg_87.jpg",
+        "class": 1,
+        "bbox": [
+            55,
+            191,
+            204,
+            311
+        ]
+    },
+    {
+        "bg_name": "wally_bg_78.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_50.jpg",
+        "class": 1,
+        "bbox": [
+            469,
+            347,
+            618,
+            467
+        ]
+    },
+    {
+        "bg_name": "wally_bg_44.jpg",
+        "class": 1,
+        "bbox": [
+            84,
+            80,
+            233,
+            200
+        ]
+    },
+    {
+        "bg_name": "wally_bg_45.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_51.jpg",
+        "class": 1,
+        "bbox": [
+            320,
+            318,
+            469,
+            438
+        ]
+    },
+    {
+        "bg_name": "wally_bg_79.jpg",
+        "class": 1,
+        "bbox": [
+            594,
+            218,
+            743,
+            338
+        ]
+    },
+    {
+        "bg_name": "wally_bg_86.jpg",
+        "class": 1,
+        "bbox": [
+            169,
+            128,
+            318,
+            248
+        ]
+    },
+    {
+        "bg_name": "wally_bg_84.jpg",
+        "class": 1,
+        "bbox": [
+            187,
+            120,
+            336,
+            240
+        ]
+    },
+    {
+        "bg_name": "wally_bg_90.jpg",
+        "class": 1,
+        "bbox": [
+            212,
+            174,
+            361,
+            294
+        ]
+    },
+    {
+        "bg_name": "wally_bg_47.jpg",
+        "class": 1,
+        "bbox": [
+            545,
+            59,
+            694,
+            179
+        ]
+    },
+    {
+        "bg_name": "wally_bg_53.jpg",
+        "class": 1,
+        "bbox": [
+            473,
+            470,
+            622,
+            590
+        ]
+    },
+    {
+        "bg_name": "wally_bg_52.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_46.jpg",
+        "class": 1,
+        "bbox": [
+            516,
+            221,
+            665,
+            341
+        ]
+    },
+    {
+        "bg_name": "wally_bg_85.jpg",
+        "class": 1,
+        "bbox": [
+            124,
+            368,
+            273,
+            488
+        ]
+    },
+    {
+        "bg_name": "wally_bg_81.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_42.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_56.jpg",
+        "class": 1,
+        "bbox": [
+            296,
+            373,
+            445,
+            493
+        ]
+    },
+    {
+        "bg_name": "wally_bg_57.jpg",
+        "class": 1,
+        "bbox": [
+            145,
+            335,
+            294,
+            455
+        ]
+    },
+    {
+        "bg_name": "wally_bg_43.jpg",
+        "class": 1,
+        "bbox": [
+            422,
+            106,
+            571,
+            226
+        ]
+    },
+    {
+        "bg_name": "wally_bg_80.jpg",
+        "class": 1,
+        "bbox": [
+            199,
+            245,
+            348,
+            365
+        ]
+    },
+    {
+        "bg_name": "wally_bg_82.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_55.jpg",
+        "class": 1,
+        "bbox": [
+            492,
+            260,
+            641,
+            380
+        ]
+    },
+    {
+        "bg_name": "wally_bg_41.jpg",
+        "class": 1,
+        "bbox": [
+            108,
+            204,
+            257,
+            324
+        ]
+    },
+    {
+        "bg_name": "wally_bg_69.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_68.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_40.jpg",
+        "class": 1,
+        "bbox": [
+            401,
+            289,
+            550,
+            409
+        ]
+    },
+    {
+        "bg_name": "wally_bg_54.jpg",
+        "class": 1,
+        "bbox": [
+            453,
+            423,
+            602,
+            543
+        ]
+    },
+    {
+        "bg_name": "wally_bg_83.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_3.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_33.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_26.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_32.jpg",
+        "class": 1,
+        "bbox": [
+            400,
+            117,
+            549,
+            237
+        ]
+    },
+    {
+        "bg_name": "wally_bg_2.jpg",
+        "class": 1,
+        "bbox": [
+            570,
+            35,
+            719,
+            155
+        ]
+    },
+    {
+        "bg_name": "wally_bg_18.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_24.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_30.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_31.jpg",
+        "class": 1,
+        "bbox": [
+            370,
+            1,
+            519,
+            121
+        ]
+    },
+    {
+        "bg_name": "wally_bg_19.jpg",
+        "class": 1,
+        "bbox": [
+            175,
+            132,
+            324,
+            252
+        ]
+    },
+    {
+        "bg_name": "wally_bg_1.jpg",
+        "class": 1,
+        "bbox": [
+            69,
+            31,
+            218,
+            151
+        ]
+    },
+    {
+        "bg_name": "wally_bg_5.jpg",
+        "class": 1,
+        "bbox": [
+            258,
+            40,
+            407,
+            160
+        ]
+    },
+    {
+        "bg_name": "wally_bg_21.jpg",
+        "class": 1,
+        "bbox": [
+            83,
+            65,
+            232,
+            185
+        ]
+    },
+    {
+        "bg_name": "wally_bg_34.jpg",
+        "class": 1,
+        "bbox": [
+            651,
+            407,
+            800,
+            527
+        ]
+    },
+    {
+        "bg_name": "wally_bg_20.jpg",
+        "class": 1,
+        "bbox": [
+            178,
+            221,
+            327,
+            341
+        ]
+    },
+    {
+        "bg_name": "wally_bg_4.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_6.jpg",
+        "class": 1,
+        "bbox": [
+            528,
+            60,
+            677,
+            180
+        ]
+    },
+    {
+        "bg_name": "wally_bg_22.jpg",
+        "class": 1,
+        "bbox": [
+            517,
+            241,
+            666,
+            361
+        ]
+    },
+    {
+        "bg_name": "wally_bg_23.jpg",
+        "class": 1,
+        "bbox": [
+            389,
+            159,
+            538,
+            279
+        ]
+    },
+    {
+        "bg_name": "wally_bg_7.jpg",
+        "class": 1,
+        "bbox": [
+            371,
+            171,
+            520,
+            291
+        ]
+    },
+    {
+        "bg_name": "wally_bg_12.jpg",
+        "class": 1,
+        "bbox": [
+            291,
+            277,
+            440,
+            397
+        ]
+    },
+    {
+        "bg_name": "wally_bg_13.jpg",
+        "class": 1,
+        "bbox": [
+            252,
+            71,
+            401,
+            191
+        ]
+    },
+    {
+        "bg_name": "wally_bg_9.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_39.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_11.jpg",
+        "class": 1,
+        "bbox": [
+            154,
+            115,
+            303,
+            235
+        ]
+    },
+    {
+        "bg_name": "wally_bg_10.jpg",
+        "class": 1,
+        "bbox": [
+            514,
+            476,
+            663,
+            596
+        ]
+    },
+    {
+        "bg_name": "wally_bg_38.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_8.jpg",
+        "class": 1,
+        "bbox": [
+            125,
+            393,
+            274,
+            513
+        ]
+    },
+    {
+        "bg_name": "wally_bg_14.jpg",
+        "class": 1,
+        "bbox": [
+            572,
+            279,
+            721,
+            399
+        ]
+    },
+    {
+        "bg_name": "wally_bg_28.jpg",
+        "class": 1,
+        "bbox": [
+            329,
+            449,
+            478,
+            569
+        ]
+    },
+    {
+        "bg_name": "wally_bg_29.jpg",
+        "class": 1,
+        "bbox": [
+            267,
+            145,
+            416,
+            265
+        ]
+    },
+    {
+        "bg_name": "wally_bg_15.jpg",
+        "class": 1,
+        "bbox": [
+            469,
+            63,
+            618,
+            183
+        ]
+    },
+    {
+        "bg_name": "wally_bg_17.jpg",
+        "class": 1,
+        "bbox": [
+            214,
+            62,
+            363,
+            182
+        ]
+    },
+    {
+        "bg_name": "wally_bg_16.jpg",
+        "class": 1,
+        "bbox": [
+            127,
+            148,
+            276,
+            268
+        ]
+    },
+    {
+        "bg_name": "wally_bg_59.jpg",
+        "class": 1,
+        "bbox": [
+            108,
+            444,
+            257,
+            564
+        ]
+    },
+    {
+        "bg_name": "wally_bg_71.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_65.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_64.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_70.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_58.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_66.jpg",
+        "class": 1,
+        "bbox": [
+            641,
+            245,
+            790,
+            365
+        ]
+    },
+    {
+        "bg_name": "wally_bg_72.jpg",
+        "class": 1,
+        "bbox": [
+            96,
+            73,
+            245,
+            193
+        ]
+    },
+    {
+        "bg_name": "wally_bg_73.jpg",
+        "class": 1,
+        "bbox": [
+            356,
+            195,
+            505,
+            315
+        ]
+    },
+    {
+        "bg_name": "wally_bg_67.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_88.jpg",
+        "class": 1,
+        "bbox": [
+            42,
+            229,
+            191,
+            349
+        ]
+    },
+    {
+        "bg_name": "wally_bg_63.jpg",
+        "class": 1,
+        "bbox": [
+            636,
+            329,
+            785,
+            449
+        ]
+    },
+    {
+        "bg_name": "wally_bg_77.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_76.jpg",
+        "class": 1,
+        "bbox": [
+            567,
+            420,
+            716,
+            540
+        ]
+    },
+    {
+        "bg_name": "wally_bg_62.jpg",
+        "class": 1,
+        "bbox": [
+            625,
+            44,
+            774,
+            164
+        ]
+    },
+    {
+        "bg_name": "wally_bg_89.jpg",
+        "class": 1,
+        "bbox": [
+            523,
+            53,
+            672,
+            173
+        ]
+    },
+    {
+        "bg_name": "wally_bg_74.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_60.jpg",
+        "class": 1,
+        "bbox": [
+            464,
+            155,
+            613,
+            275
+        ]
+    },
+    {
+        "bg_name": "wally_bg_48.jpg",
+        "class": 1,
+        "bbox": [
+            309,
+            430,
+            458,
+            550
+        ]
+    },
+    {
+        "bg_name": "wally_bg_49.jpg",
+        "class": 1,
+        "bbox": [
+            263,
+            406,
+            412,
+            526
+        ]
+    },
+    {
+        "bg_name": "wally_bg_61.jpg",
+        "class": 1,
+        "bbox": [
+            19,
+            441,
+            168,
+            561
+        ]
+    },
+    {
+        "bg_name": "wally_bg_75.jpg",
+        "class": 1,
+        "bbox": [
+            206,
+            40,
+            355,
+            160
+        ]
+    },
+    {
+        "bg_name": "wally_bg_25.jpeg",
+        "class": 1,
+        "bbox": [
+            426,
+            281,
+            575,
+            401
+        ]
+    },
+    {
+        "bg_name": "wally_bg_35.jpeg",
+        "class": 1,
+        "bbox": [
+            452,
+            323,
+            601,
+            443
+        ]
+    },
+    {
+        "bg_name": "wally_bg_37.jpeg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_36.jpeg",
+        "class": 1,
+        "bbox": [
+            227,
+            367,
+            376,
+            487
+        ]
+    },
+    {
+        "bg_name": "wally_bg_27.jpeg",
+        "class": 1,
+        "bbox": [
+            470,
+            362,
+            619,
+            482
+        ]
+    },
+    {
+        "bg_name": "wally_bg_87.jpg",
+        "class": 1,
+        "bbox": [
+            351,
+            459,
+            500,
+            579
+        ]
+    },
+    {
+        "bg_name": "wally_bg_78.jpg",
+        "class": 1,
+        "bbox": [
+            10,
+            217,
+            159,
+            337
+        ]
+    },
+    {
+        "bg_name": "wally_bg_50.jpg",
+        "class": 1,
+        "bbox": [
+            202,
+            215,
+            351,
+            335
+        ]
+    },
+    {
+        "bg_name": "wally_bg_44.jpg",
+        "class": 1,
+        "bbox": [
+            585,
+            259,
+            734,
+            379
+        ]
+    },
+    {
+        "bg_name": "wally_bg_45.jpg",
+        "class": 1,
+        "bbox": [
+            98,
+            406,
+            247,
+            526
+        ]
+    },
+    {
+        "bg_name": "wally_bg_51.jpg",
+        "class": 1,
+        "bbox": [
+            31,
+            196,
+            180,
+            316
+        ]
+    },
+    {
+        "bg_name": "wally_bg_79.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_86.jpg",
+        "class": 1,
+        "bbox": [
+            545,
+            367,
+            694,
+            487
+        ]
+    },
+    {
+        "bg_name": "wally_bg_84.jpg",
+        "class": 1,
+        "bbox": [
+            126,
+            165,
+            275,
+            285
+        ]
+    },
+    {
+        "bg_name": "wally_bg_90.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_47.jpg",
+        "class": 1,
+        "bbox": [
+            465,
+            322,
+            614,
+            442
+        ]
+    },
+    {
+        "bg_name": "wally_bg_53.jpg",
+        "class": 1,
+        "bbox": [
+            638,
+            285,
+            787,
+            405
+        ]
+    },
+    {
+        "bg_name": "wally_bg_52.jpg",
+        "class": 1,
+        "bbox": [
+            53,
+            398,
+            202,
+            518
+        ]
+    },
+    {
+        "bg_name": "wally_bg_46.jpg",
+        "class": 1,
+        "bbox": [
+            273,
+            238,
+            422,
+            358
+        ]
+    },
+    {
+        "bg_name": "wally_bg_85.jpg",
+        "class": 1,
+        "bbox": [
+            555,
+            180,
+            704,
+            300
+        ]
+    },
+    {
+        "bg_name": "wally_bg_81.jpg",
+        "class": 1,
+        "bbox": [
+            575,
+            114,
+            724,
+            234
+        ]
+    },
+    {
+        "bg_name": "wally_bg_42.jpg",
+        "class": 1,
+        "bbox": [
+            180,
+            335,
+            329,
+            455
+        ]
+    },
+    {
+        "bg_name": "wally_bg_56.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_57.jpg",
+        "class": 1,
+        "bbox": [
+            525,
+            332,
+            674,
+            452
+        ]
+    },
+    {
+        "bg_name": "wally_bg_43.jpg",
+        "class": 1,
+        "bbox": [
+            331,
+            212,
+            480,
+            332
+        ]
+    },
+    {
+        "bg_name": "wally_bg_80.jpg",
+        "class": 1,
+        "bbox": [
+            379,
+            101,
+            528,
+            221
+        ]
+    },
+    {
+        "bg_name": "wally_bg_82.jpg",
+        "class": 1,
+        "bbox": [
+            184,
+            205,
+            333,
+            325
+        ]
+    },
+    {
+        "bg_name": "wally_bg_55.jpg",
+        "class": 1,
+        "bbox": [
+            490,
+            55,
+            639,
+            175
+        ]
+    },
+    {
+        "bg_name": "wally_bg_41.jpg",
+        "class": 1,
+        "bbox": [
+            227,
+            60,
+            376,
+            180
+        ]
+    },
+    {
+        "bg_name": "wally_bg_69.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_68.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_40.jpg",
+        "class": 1,
+        "bbox": [
+            115,
+            219,
+            264,
+            339
+        ]
+    },
+    {
+        "bg_name": "wally_bg_54.jpg",
+        "class": 1,
+        "bbox": [
+            460,
+            227,
+            609,
+            347
+        ]
+    },
+    {
+        "bg_name": "wally_bg_83.jpg",
+        "class": 1,
+        "bbox": [
+            495,
+            117,
+            644,
+            237
+        ]
+    },
+    {
+        "bg_name": "wally_bg_3.jpg",
+        "class": 1,
+        "bbox": [
+            458,
+            24,
+            607,
+            144
+        ]
+    },
+    {
+        "bg_name": "wally_bg_33.jpg",
+        "class": 1,
+        "bbox": [
+            394,
+            319,
+            543,
+            439
+        ]
+    },
+    {
+        "bg_name": "wally_bg_26.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_32.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_2.jpg",
+        "class": 1,
+        "bbox": [
+            597,
+            379,
+            746,
+            499
+        ]
+    },
+    {
+        "bg_name": "wally_bg_18.jpg",
+        "class": 1,
+        "bbox": [
+            112,
+            404,
+            261,
+            524
+        ]
+    },
+    {
+        "bg_name": "wally_bg_24.jpg",
+        "class": 1,
+        "bbox": [
+            246,
+            207,
+            395,
+            327
+        ]
+    },
+    {
+        "bg_name": "wally_bg_30.jpg",
+        "class": 1,
+        "bbox": [
+            540,
+            420,
+            689,
+            540
+        ]
+    },
+    {
+        "bg_name": "wally_bg_31.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_19.jpg",
+        "class": 1,
+        "bbox": [
+            54,
+            155,
+            203,
+            275
+        ]
+    },
+    {
+        "bg_name": "wally_bg_1.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_5.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_21.jpg",
+        "class": 1,
+        "bbox": [
+            621,
+            293,
+            770,
+            413
+        ]
+    },
+    {
+        "bg_name": "wally_bg_34.jpg",
+        "class": 1,
+        "bbox": [
+            395,
+            211,
+            544,
+            331
+        ]
+    },
+    {
+        "bg_name": "wally_bg_20.jpg",
+        "class": 1,
+        "bbox": [
+            313,
+            396,
+            462,
+            516
+        ]
+    },
+    {
+        "bg_name": "wally_bg_4.jpg",
+        "class": 1,
+        "bbox": [
+            382,
+            57,
+            531,
+            177
+        ]
+    },
+    {
+        "bg_name": "wally_bg_6.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_22.jpg",
+        "class": 1,
+        "bbox": [
+            112,
+            348,
+            261,
+            468
+        ]
+    },
+    {
+        "bg_name": "wally_bg_23.jpg",
+        "class": 1,
+        "bbox": [
+            128,
+            119,
+            277,
+            239
+        ]
+    },
+    {
+        "bg_name": "wally_bg_7.jpg",
+        "class": 1,
+        "bbox": [
+            402,
+            151,
+            551,
+            271
+        ]
+    },
+    {
+        "bg_name": "wally_bg_12.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_13.jpg",
+        "class": 1,
+        "bbox": [
+            216,
+            434,
+            365,
+            554
+        ]
+    },
+    {
+        "bg_name": "wally_bg_9.jpg",
+        "class": 1,
+        "bbox": [
+            34,
+            206,
+            183,
+            326
+        ]
+    },
+    {
+        "bg_name": "wally_bg_39.jpg",
+        "class": 1,
+        "bbox": [
+            115,
+            120,
+            264,
+            240
+        ]
+    },
+    {
+        "bg_name": "wally_bg_11.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_10.jpg",
+        "class": 1,
+        "bbox": [
+            432,
+            476,
+            581,
+            596
+        ]
+    },
+    {
+        "bg_name": "wally_bg_38.jpg",
+        "class": 1,
+        "bbox": [
+            330,
+            274,
+            479,
+            394
+        ]
+    },
+    {
+        "bg_name": "wally_bg_8.jpg",
+        "class": 1,
+        "bbox": [
+            235,
+            64,
+            384,
+            184
+        ]
+    },
+    {
+        "bg_name": "wally_bg_14.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_28.jpg",
+        "class": 1,
+        "bbox": [
+            596,
+            443,
+            745,
+            563
+        ]
+    },
+    {
+        "bg_name": "wally_bg_29.jpg",
+        "class": 1,
+        "bbox": [
+            129,
+            232,
+            278,
+            352
+        ]
+    },
+    {
+        "bg_name": "wally_bg_15.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_17.jpg",
+        "class": 1,
+        "bbox": [
+            453,
+            46,
+            602,
+            166
+        ]
+    },
+    {
+        "bg_name": "wally_bg_16.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_59.jpg",
+        "class": 1,
+        "bbox": [
+            294,
+            314,
+            443,
+            434
+        ]
+    },
+    {
+        "bg_name": "wally_bg_71.jpg",
+        "class": 1,
+        "bbox": [
+            466,
+            99,
+            615,
+            219
+        ]
+    },
+    {
+        "bg_name": "wally_bg_65.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_64.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_70.jpg",
+        "class": 1,
+        "bbox": [
+            186,
+            133,
+            335,
+            253
+        ]
+    },
+    {
+        "bg_name": "wally_bg_58.jpg",
+        "class": 1,
+        "bbox": [
+            29,
+            438,
+            178,
+            558
+        ]
+    },
+    {
+        "bg_name": "wally_bg_66.jpg",
+        "class": 1,
+        "bbox": [
+            196,
+            407,
+            345,
+            527
+        ]
+    },
+    {
+        "bg_name": "wally_bg_72.jpg",
+        "class": 1,
+        "bbox": [
+            26,
+            61,
+            175,
+            181
+        ]
+    },
+    {
+        "bg_name": "wally_bg_73.jpg",
+        "class": 1,
+        "bbox": [
+            318,
+            117,
+            467,
+            237
+        ]
+    },
+    {
+        "bg_name": "wally_bg_67.jpg",
+        "class": 1,
+        "bbox": [
+            278,
+            421,
+            427,
+            541
+        ]
+    },
+    {
+        "bg_name": "wally_bg_88.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_63.jpg",
+        "class": 1,
+        "bbox": [
+            429,
+            15,
+            578,
+            135
+        ]
+    },
+    {
+        "bg_name": "wally_bg_77.jpg",
+        "class": 1,
+        "bbox": [
+            73,
+            341,
+            222,
+            461
+        ]
+    },
+    {
+        "bg_name": "wally_bg_76.jpg",
+        "class": 1,
+        "bbox": [
+            412,
+            222,
+            561,
+            342
+        ]
+    },
+    {
+        "bg_name": "wally_bg_62.jpg",
+        "class": 1,
+        "bbox": [
+            98,
+            462,
+            247,
+            582
+        ]
+    },
+    {
+        "bg_name": "wally_bg_89.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_74.jpg",
+        "class": 1,
+        "bbox": [
+            498,
+            101,
+            647,
+            221
+        ]
+    },
+    {
+        "bg_name": "wally_bg_60.jpg",
+        "class": 1,
+        "bbox": [
+            262,
+            383,
+            411,
+            503
+        ]
+    },
+    {
+        "bg_name": "wally_bg_48.jpg",
+        "class": 1,
+        "bbox": [
+            307,
+            292,
+            456,
+            412
+        ]
+    },
+    {
+        "bg_name": "wally_bg_49.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_61.jpg",
+        "class": 1,
+        "bbox": [
+            177,
+            424,
+            326,
+            544
+        ]
+    },
+    {
+        "bg_name": "wally_bg_75.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_25.jpeg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_35.jpeg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_37.jpeg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_36.jpeg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_27.jpeg",
+        "class": 1,
+        "bbox": [
+            281,
+            438,
+            430,
+            558
+        ]
+    },
+    {
+        "bg_name": "wally_bg_87.jpg",
+        "class": 1,
+        "bbox": [
+            320,
+            351,
+            469,
+            471
+        ]
+    },
+    {
+        "bg_name": "wally_bg_78.jpg",
+        "class": 1,
+        "bbox": [
+            57,
+            415,
+            206,
+            535
+        ]
+    },
+    {
+        "bg_name": "wally_bg_50.jpg",
+        "class": 1,
+        "bbox": [
+            527,
+            368,
+            676,
+            488
+        ]
+    },
+    {
+        "bg_name": "wally_bg_44.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_45.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_51.jpg",
+        "class": 1,
+        "bbox": [
+            195,
+            291,
+            344,
+            411
+        ]
+    },
+    {
+        "bg_name": "wally_bg_79.jpg",
+        "class": 1,
+        "bbox": [
+            144,
+            137,
+            293,
+            257
+        ]
+    },
+    {
+        "bg_name": "wally_bg_86.jpg",
+        "class": 1,
+        "bbox": [
+            254,
+            313,
+            403,
+            433
+        ]
+    },
+    {
+        "bg_name": "wally_bg_84.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_90.jpg",
+        "class": 1,
+        "bbox": [
+            12,
+            75,
+            161,
+            195
+        ]
+    },
+    {
+        "bg_name": "wally_bg_47.jpg",
+        "class": 1,
+        "bbox": [
+            532,
+            188,
+            681,
+            308
+        ]
+    },
+    {
+        "bg_name": "wally_bg_53.jpg",
+        "class": 1,
+        "bbox": [
+            596,
+            458,
+            745,
+            578
+        ]
+    },
+    {
+        "bg_name": "wally_bg_52.jpg",
+        "class": 1,
+        "bbox": [
+            267,
+            51,
+            416,
+            171
+        ]
+    },
+    {
+        "bg_name": "wally_bg_46.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_85.jpg",
+        "class": 1,
+        "bbox": [
+            449,
+            231,
+            598,
+            351
+        ]
+    },
+    {
+        "bg_name": "wally_bg_81.jpg",
+        "class": 1,
+        "bbox": [
+            458,
+            167,
+            607,
+            287
+        ]
+    },
+    {
+        "bg_name": "wally_bg_42.jpg",
+        "class": 1,
+        "bbox": [
+            218,
+            324,
+            367,
+            444
+        ]
+    },
+    {
+        "bg_name": "wally_bg_56.jpg",
+        "class": 1,
+        "bbox": [
+            185,
+            105,
+            334,
+            225
+        ]
+    },
+    {
+        "bg_name": "wally_bg_57.jpg",
+        "class": 1,
+        "bbox": [
+            244,
+            259,
+            393,
+            379
+        ]
+    },
+    {
+        "bg_name": "wally_bg_43.jpg",
+        "class": 1,
+        "bbox": [
+            106,
+            445,
+            255,
+            565
+        ]
+    },
+    {
+        "bg_name": "wally_bg_80.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_82.jpg",
+        "class": 1,
+        "bbox": [
+            33,
+            113,
+            182,
+            233
+        ]
+    },
+    {
+        "bg_name": "wally_bg_55.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_41.jpg",
+        "class": 1,
+        "bbox": [
+            499,
+            35,
+            648,
+            155
+        ]
+    },
+    {
+        "bg_name": "wally_bg_69.jpg",
+        "class": 1,
+        "bbox": [
+            258,
+            386,
+            407,
+            506
+        ]
+    },
+    {
+        "bg_name": "wally_bg_68.jpg",
+        "class": 1,
+        "bbox": [
+            175,
+            311,
+            324,
+            431
+        ]
+    },
+    {
+        "bg_name": "wally_bg_40.jpg",
+        "class": 1,
+        "bbox": [
+            122,
+            205,
+            271,
+            325
+        ]
+    },
+    {
+        "bg_name": "wally_bg_54.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_83.jpg",
+        "class": 1,
+        "bbox": [
+            457,
+            306,
+            606,
+            426
+        ]
+    },
+    {
+        "bg_name": "wally_bg_3.jpg",
+        "class": 1,
+        "bbox": [
+            87,
+            408,
+            236,
+            528
+        ]
+    },
+    {
+        "bg_name": "wally_bg_33.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_26.jpg",
+        "class": 1,
+        "bbox": [
+            70,
+            208,
+            219,
+            328
+        ]
+    },
+    {
+        "bg_name": "wally_bg_32.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_2.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_18.jpg",
+        "class": 1,
+        "bbox": [
+            380,
+            199,
+            529,
+            319
+        ]
+    },
+    {
+        "bg_name": "wally_bg_24.jpg",
+        "class": 1,
+        "bbox": [
+            449,
+            352,
+            598,
+            472
+        ]
+    },
+    {
+        "bg_name": "wally_bg_30.jpg",
+        "class": 1,
+        "bbox": [
+            620,
+            161,
+            769,
+            281
+        ]
+    },
+    {
+        "bg_name": "wally_bg_31.jpg",
+        "class": 1,
+        "bbox": [
+            489,
+            150,
+            638,
+            270
+        ]
+    },
+    {
+        "bg_name": "wally_bg_19.jpg",
+        "class": 1,
+        "bbox": [
+            306,
+            293,
+            455,
+            413
+        ]
+    },
+    {
+        "bg_name": "wally_bg_1.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_5.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_21.jpg",
+        "class": 1,
+        "bbox": [
+            651,
+            358,
+            800,
+            478
+        ]
+    },
+    {
+        "bg_name": "wally_bg_34.jpg",
+        "class": 1,
+        "bbox": [
+            109,
+            360,
+            258,
+            480
+        ]
+    },
+    {
+        "bg_name": "wally_bg_20.jpg",
+        "class": 1,
+        "bbox": [
+            60,
+            241,
+            209,
+            361
+        ]
+    },
+    {
+        "bg_name": "wally_bg_4.jpg",
+        "class": 1,
+        "bbox": [
+            313,
+            10,
+            462,
+            130
+        ]
+    },
+    {
+        "bg_name": "wally_bg_6.jpg",
+        "class": 1,
+        "bbox": [
+            574,
+            134,
+            723,
+            254
+        ]
+    },
+    {
+        "bg_name": "wally_bg_22.jpg",
+        "class": 1,
+        "bbox": [
+            513,
+            426,
+            662,
+            546
+        ]
+    },
+    {
+        "bg_name": "wally_bg_23.jpg",
+        "class": 1,
+        "bbox": [
+            377,
+            73,
+            526,
+            193
+        ]
+    },
+    {
+        "bg_name": "wally_bg_7.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_12.jpg",
+        "class": 1,
+        "bbox": [
+            558,
+            285,
+            707,
+            405
+        ]
+    },
+    {
+        "bg_name": "wally_bg_13.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_9.jpg",
+        "class": 1,
+        "bbox": [
+            198,
+            474,
+            347,
+            594
+        ]
+    },
+    {
+        "bg_name": "wally_bg_39.jpg",
+        "class": 1,
+        "bbox": [
+            56,
+            365,
+            205,
+            485
+        ]
+    },
+    {
+        "bg_name": "wally_bg_11.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_10.jpg",
+        "class": 1,
+        "bbox": [
+            344,
+            409,
+            493,
+            529
+        ]
+    },
+    {
+        "bg_name": "wally_bg_38.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_8.jpg",
+        "class": 1,
+        "bbox": [
+            627,
+            162,
+            776,
+            282
+        ]
+    },
+    {
+        "bg_name": "wally_bg_14.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_28.jpg",
+        "class": 1,
+        "bbox": [
+            308,
+            338,
+            457,
+            458
+        ]
+    },
+    {
+        "bg_name": "wally_bg_29.jpg",
+        "class": 1,
+        "bbox": [
+            42,
+            240,
+            191,
+            360
+        ]
+    },
+    {
+        "bg_name": "wally_bg_15.jpg",
+        "class": 1,
+        "bbox": [
+            573,
+            42,
+            722,
+            162
+        ]
+    },
+    {
+        "bg_name": "wally_bg_17.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_16.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_59.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_71.jpg",
+        "class": 1,
+        "bbox": [
+            363,
+            392,
+            512,
+            512
+        ]
+    },
+    {
+        "bg_name": "wally_bg_65.jpg",
+        "class": 1,
+        "bbox": [
+            286,
+            196,
+            435,
+            316
+        ]
+    },
+    {
+        "bg_name": "wally_bg_64.jpg",
+        "class": 1,
+        "bbox": [
+            360,
+            360,
+            509,
+            480
+        ]
+    },
+    {
+        "bg_name": "wally_bg_70.jpg",
+        "class": 1,
+        "bbox": [
+            556,
+            164,
+            705,
+            284
+        ]
+    },
+    {
+        "bg_name": "wally_bg_58.jpg",
+        "class": 1,
+        "bbox": [
+            597,
+            345,
+            746,
+            465
+        ]
+    },
+    {
+        "bg_name": "wally_bg_66.jpg",
+        "class": 1,
+        "bbox": [
+            209,
+            310,
+            358,
+            430
+        ]
+    },
+    {
+        "bg_name": "wally_bg_72.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_73.jpg",
+        "class": 1,
+        "bbox": [
+            522,
+            333,
+            671,
+            453
+        ]
+    },
+    {
+        "bg_name": "wally_bg_67.jpg",
+        "class": 1,
+        "bbox": [
+            168,
+            468,
+            317,
+            588
+        ]
+    },
+    {
+        "bg_name": "wally_bg_88.jpg",
+        "class": 1,
+        "bbox": [
+            105,
+            420,
+            254,
+            540
+        ]
+    },
+    {
+        "bg_name": "wally_bg_63.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_77.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_76.jpg",
+        "class": 1,
+        "bbox": [
+            576,
+            402,
+            725,
+            522
+        ]
+    },
+    {
+        "bg_name": "wally_bg_62.jpg",
+        "class": 1,
+        "bbox": [
+            360,
+            383,
+            509,
+            503
+        ]
+    },
+    {
+        "bg_name": "wally_bg_89.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_74.jpg",
+        "class": 1,
+        "bbox": [
+            404,
+            101,
+            553,
+            221
+        ]
+    },
+    {
+        "bg_name": "wally_bg_60.jpg",
+        "class": 1,
+        "bbox": [
+            232,
+            457,
+            381,
+            577
+        ]
+    },
+    {
+        "bg_name": "wally_bg_48.jpg",
+        "class": 1,
+        "bbox": [
+            516,
+            202,
+            665,
+            322
+        ]
+    },
+    {
+        "bg_name": "wally_bg_49.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_61.jpg",
+        "class": 1,
+        "bbox": [
+            447,
+            391,
+            596,
+            511
+        ]
+    },
+    {
+        "bg_name": "wally_bg_75.jpg",
+        "class": 1,
+        "bbox": [
+            83,
+            161,
+            232,
+            281
+        ]
+    },
+    {
+        "bg_name": "wally_bg_25.jpeg",
+        "class": 1,
+        "bbox": [
+            423,
+            183,
+            572,
+            303
+        ]
+    },
+    {
+        "bg_name": "wally_bg_35.jpeg",
+        "class": 1,
+        "bbox": [
+            35,
+            421,
+            184,
+            541
+        ]
+    },
+    {
+        "bg_name": "wally_bg_37.jpeg",
+        "class": 1,
+        "bbox": [
+            435,
+            279,
+            584,
+            399
+        ]
+    },
+    {
+        "bg_name": "wally_bg_36.jpeg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_27.jpeg",
+        "class": 1,
+        "bbox": [
+            15,
+            323,
+            164,
+            443
+        ]
+    },
+    {
+        "bg_name": "wally_bg_87.jpg",
+        "class": 1,
+        "bbox": [
+            626,
+            421,
+            775,
+            541
+        ]
+    },
+    {
+        "bg_name": "wally_bg_78.jpg",
+        "class": 1,
+        "bbox": [
+            107,
+            204,
+            256,
+            324
+        ]
+    },
+    {
+        "bg_name": "wally_bg_50.jpg",
+        "class": 1,
+        "bbox": [
+            476,
+            62,
+            625,
+            182
+        ]
+    },
+    {
+        "bg_name": "wally_bg_44.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_45.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_51.jpg",
+        "class": 1,
+        "bbox": [
+            433,
+            288,
+            582,
+            408
+        ]
+    },
+    {
+        "bg_name": "wally_bg_79.jpg",
+        "class": 1,
+        "bbox": [
+            315,
+            173,
+            464,
+            293
+        ]
+    },
+    {
+        "bg_name": "wally_bg_86.jpg",
+        "class": 1,
+        "bbox": [
+            530,
+            156,
+            679,
+            276
+        ]
+    },
+    {
+        "bg_name": "wally_bg_84.jpg",
+        "class": 1,
+        "bbox": [
+            513,
+            210,
+            662,
+            330
+        ]
+    },
+    {
+        "bg_name": "wally_bg_90.jpg",
+        "class": 1,
+        "bbox": [
+            115,
+            29,
+            264,
+            149
+        ]
+    },
+    {
+        "bg_name": "wally_bg_47.jpg",
+        "class": 1,
+        "bbox": [
+            184,
+            282,
+            333,
+            402
+        ]
+    },
+    {
+        "bg_name": "wally_bg_53.jpg",
+        "class": 1,
+        "bbox": [
+            375,
+            328,
+            524,
+            448
+        ]
+    },
+    {
+        "bg_name": "wally_bg_52.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_46.jpg",
+        "class": 1,
+        "bbox": [
+            469,
+            350,
+            618,
+            470
+        ]
+    },
+    {
+        "bg_name": "wally_bg_85.jpg",
+        "class": 1,
+        "bbox": [
+            467,
+            321,
+            616,
+            441
+        ]
+    },
+    {
+        "bg_name": "wally_bg_81.jpg",
+        "class": 1,
+        "bbox": [
+            170,
+            318,
+            319,
+            438
+        ]
+    },
+    {
+        "bg_name": "wally_bg_42.jpg",
+        "class": 1,
+        "bbox": [
+            97,
+            172,
+            246,
+            292
+        ]
+    },
+    {
+        "bg_name": "wally_bg_56.jpg",
+        "class": 1,
+        "bbox": [
+            462,
+            386,
+            611,
+            506
+        ]
+    },
+    {
+        "bg_name": "wally_bg_57.jpg",
+        "class": 1,
+        "bbox": [
+            189,
+            219,
+            338,
+            339
+        ]
+    },
+    {
+        "bg_name": "wally_bg_43.jpg",
+        "class": 1,
+        "bbox": [
+            467,
+            191,
+            616,
+            311
+        ]
+    },
+    {
+        "bg_name": "wally_bg_80.jpg",
+        "class": 1,
+        "bbox": [
+            120,
+            5,
+            269,
+            125
+        ]
+    },
+    {
+        "bg_name": "wally_bg_82.jpg",
+        "class": 1,
+        "bbox": [
+            583,
+            305,
+            732,
+            425
+        ]
+    },
+    {
+        "bg_name": "wally_bg_55.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_41.jpg",
+        "class": 1,
+        "bbox": [
+            272,
+            252,
+            421,
+            372
+        ]
+    },
+    {
+        "bg_name": "wally_bg_69.jpg",
+        "class": 1,
+        "bbox": [
+            299,
+            25,
+            448,
+            145
+        ]
+    },
+    {
+        "bg_name": "wally_bg_68.jpg",
+        "class": 1,
+        "bbox": [
+            308,
+            476,
+            457,
+            596
+        ]
+    },
+    {
+        "bg_name": "wally_bg_40.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_54.jpg",
+        "class": 1,
+        "bbox": [
+            552,
+            411,
+            701,
+            531
+        ]
+    },
+    {
+        "bg_name": "wally_bg_83.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_3.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_33.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_26.jpg",
+        "class": 1,
+        "bbox": [
+            37,
+            363,
+            186,
+            483
+        ]
+    },
+    {
+        "bg_name": "wally_bg_32.jpg",
+        "class": 1,
+        "bbox": [
+            285,
+            125,
+            434,
+            245
+        ]
+    },
+    {
+        "bg_name": "wally_bg_2.jpg",
+        "class": 1,
+        "bbox": [
+            403,
+            224,
+            552,
+            344
+        ]
+    },
+    {
+        "bg_name": "wally_bg_18.jpg",
+        "class": 1,
+        "bbox": [
+            296,
+            309,
+            445,
+            429
+        ]
+    },
+    {
+        "bg_name": "wally_bg_24.jpg",
+        "class": 1,
+        "bbox": [
+            420,
+            480,
+            569,
+            600
+        ]
+    },
+    {
+        "bg_name": "wally_bg_30.jpg",
+        "class": 1,
+        "bbox": [
+            507,
+            249,
+            656,
+            369
+        ]
+    },
+    {
+        "bg_name": "wally_bg_31.jpg",
+        "class": 1,
+        "bbox": [
+            602,
+            307,
+            751,
+            427
+        ]
+    },
+    {
+        "bg_name": "wally_bg_19.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_1.jpg",
+        "class": 1,
+        "bbox": [
+            200,
+            381,
+            349,
+            501
+        ]
+    },
+    {
+        "bg_name": "wally_bg_5.jpg",
+        "class": 1,
+        "bbox": [
+            359,
+            188,
+            508,
+            308
+        ]
+    },
+    {
+        "bg_name": "wally_bg_21.jpg",
+        "class": 1,
+        "bbox": [
+            95,
+            447,
+            244,
+            567
+        ]
+    },
+    {
+        "bg_name": "wally_bg_34.jpg",
+        "class": 1,
+        "bbox": [
+            32,
+            173,
+            181,
+            293
+        ]
+    },
+    {
+        "bg_name": "wally_bg_20.jpg",
+        "class": 1,
+        "bbox": [
+            45,
+            35,
+            194,
+            155
+        ]
+    },
+    {
+        "bg_name": "wally_bg_4.jpg",
+        "class": 1,
+        "bbox": [
+            612,
+            293,
+            761,
+            413
+        ]
+    },
+    {
+        "bg_name": "wally_bg_6.jpg",
+        "class": 1,
+        "bbox": [
+            545,
+            319,
+            694,
+            439
+        ]
+    },
+    {
+        "bg_name": "wally_bg_22.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_23.jpg",
+        "class": 1,
+        "bbox": [
+            269,
+            353,
+            418,
+            473
+        ]
+    },
+    {
+        "bg_name": "wally_bg_7.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_12.jpg",
+        "class": 1,
+        "bbox": [
+            118,
+            291,
+            267,
+            411
+        ]
+    },
+    {
+        "bg_name": "wally_bg_13.jpg",
+        "class": 1,
+        "bbox": [
+            327,
+            431,
+            476,
+            551
+        ]
+    },
+    {
+        "bg_name": "wally_bg_9.jpg",
+        "class": 1,
+        "bbox": [
+            105,
+            280,
+            254,
+            400
+        ]
+    },
+    {
+        "bg_name": "wally_bg_39.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_11.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_10.jpg",
+        "class": 1,
+        "bbox": [
+            603,
+            453,
+            752,
+            573
+        ]
+    },
+    {
+        "bg_name": "wally_bg_38.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_8.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_14.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_28.jpg",
+        "class": 1,
+        "bbox": [
+            181,
+            357,
+            330,
+            477
+        ]
+    },
+    {
+        "bg_name": "wally_bg_29.jpg",
+        "class": 1,
+        "bbox": [
+            103,
+            367,
+            252,
+            487
+        ]
+    },
+    {
+        "bg_name": "wally_bg_15.jpg",
+        "class": 1,
+        "bbox": [
+            458,
+            281,
+            607,
+            401
+        ]
+    },
+    {
+        "bg_name": "wally_bg_17.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_16.jpg",
+        "class": 1,
+        "bbox": [
+            605,
+            450,
+            754,
+            570
+        ]
+    },
+    {
+        "bg_name": "wally_bg_59.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_71.jpg",
+        "class": 1,
+        "bbox": [
+            594,
+            145,
+            743,
+            265
+        ]
+    },
+    {
+        "bg_name": "wally_bg_65.jpg",
+        "class": 1,
+        "bbox": [
+            550,
+            418,
+            699,
+            538
+        ]
+    },
+    {
+        "bg_name": "wally_bg_64.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_70.jpg",
+        "class": 1,
+        "bbox": [
+            197,
+            350,
+            346,
+            470
+        ]
+    },
+    {
+        "bg_name": "wally_bg_58.jpg",
+        "class": 1,
+        "bbox": [
+            221,
+            455,
+            370,
+            575
+        ]
+    },
+    {
+        "bg_name": "wally_bg_66.jpg",
+        "class": 1,
+        "bbox": [
+            30,
+            138,
+            179,
+            258
+        ]
+    },
+    {
+        "bg_name": "wally_bg_72.jpg",
+        "class": 1,
+        "bbox": [
+            352,
+            31,
+            501,
+            151
+        ]
+    },
+    {
+        "bg_name": "wally_bg_73.jpg",
+        "class": 1,
+        "bbox": [
+            553,
+            367,
+            702,
+            487
+        ]
+    },
+    {
+        "bg_name": "wally_bg_67.jpg",
+        "class": 1,
+        "bbox": [
+            34,
+            452,
+            183,
+            572
+        ]
+    },
+    {
+        "bg_name": "wally_bg_88.jpg",
+        "class": 1,
+        "bbox": [
+            148,
+            290,
+            297,
+            410
+        ]
+    },
+    {
+        "bg_name": "wally_bg_63.jpg",
+        "class": 1,
+        "bbox": [
+            162,
+            434,
+            311,
+            554
+        ]
+    },
+    {
+        "bg_name": "wally_bg_77.jpg",
+        "class": 1,
+        "bbox": [
+            240,
+            130,
+            389,
+            250
+        ]
+    },
+    {
+        "bg_name": "wally_bg_76.jpg",
+        "class": 1,
+        "bbox": [
+            197,
+            176,
+            346,
+            296
+        ]
+    },
+    {
+        "bg_name": "wally_bg_62.jpg",
+        "class": 1,
+        "bbox": [
+            392,
+            291,
+            541,
+            411
+        ]
+    },
+    {
+        "bg_name": "wally_bg_89.jpg",
+        "class": 1,
+        "bbox": [
+            221,
+            191,
+            370,
+            311
+        ]
+    },
+    {
+        "bg_name": "wally_bg_74.jpg",
+        "class": 1,
+        "bbox": [
+            405,
+            292,
+            554,
+            412
+        ]
+    },
+    {
+        "bg_name": "wally_bg_60.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_48.jpg",
+        "class": 1,
+        "bbox": [
+            157,
+            385,
+            306,
+            505
+        ]
+    },
+    {
+        "bg_name": "wally_bg_49.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_61.jpg",
+        "class": 1,
+        "bbox": [
+            235,
+            478,
+            384,
+            598
+        ]
+    },
+    {
+        "bg_name": "wally_bg_75.jpg",
+        "class": 1,
+        "bbox": [
+            527,
+            48,
+            676,
+            168
+        ]
+    },
+    {
+        "bg_name": "wally_bg_25.jpeg",
+        "class": 1,
+        "bbox": [
+            215,
+            102,
+            364,
+            222
+        ]
+    },
+    {
+        "bg_name": "wally_bg_35.jpeg",
+        "class": 1,
+        "bbox": [
+            450,
+            471,
+            599,
+            591
+        ]
+    },
+    {
+        "bg_name": "wally_bg_37.jpeg",
+        "class": 1,
+        "bbox": [
+            559,
+            185,
+            708,
+            305
+        ]
+    },
+    {
+        "bg_name": "wally_bg_36.jpeg",
+        "class": 1,
+        "bbox": [
+            36,
+            411,
+            185,
+            531
+        ]
+    },
+    {
+        "bg_name": "wally_bg_27.jpeg",
+        "class": 1,
+        "bbox": [
+            505,
+            318,
+            654,
+            438
+        ]
+    },
+    {
+        "bg_name": "wally_bg_87.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_78.jpg",
+        "class": 1,
+        "bbox": [
+            148,
+            115,
+            297,
+            235
+        ]
+    },
+    {
+        "bg_name": "wally_bg_50.jpg",
+        "class": 1,
+        "bbox": [
+            649,
+            67,
+            798,
+            187
+        ]
+    },
+    {
+        "bg_name": "wally_bg_44.jpg",
+        "class": 1,
+        "bbox": [
+            273,
+            81,
+            422,
+            201
+        ]
+    },
+    {
+        "bg_name": "wally_bg_45.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_51.jpg",
+        "class": 1,
+        "bbox": [
+            50,
+            247,
+            199,
+            367
+        ]
+    },
+    {
+        "bg_name": "wally_bg_79.jpg",
+        "class": 1,
+        "bbox": [
+            40,
+            183,
+            189,
+            303
+        ]
+    },
+    {
+        "bg_name": "wally_bg_86.jpg",
+        "class": 1,
+        "bbox": [
+            457,
+            401,
+            606,
+            521
+        ]
+    },
+    {
+        "bg_name": "wally_bg_84.jpg",
+        "class": 1,
+        "bbox": [
+            439,
+            375,
+            588,
+            495
+        ]
+    },
+    {
+        "bg_name": "wally_bg_90.jpg",
+        "class": 1,
+        "bbox": [
+            308,
+            179,
+            457,
+            299
+        ]
+    },
+    {
+        "bg_name": "wally_bg_47.jpg",
+        "class": 1,
+        "bbox": [
+            218,
+            379,
+            367,
+            499
+        ]
+    },
+    {
+        "bg_name": "wally_bg_53.jpg",
+        "class": 1,
+        "bbox": [
+            150,
+            34,
+            299,
+            154
+        ]
+    },
+    {
+        "bg_name": "wally_bg_52.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_46.jpg",
+        "class": 1,
+        "bbox": [
+            585,
+            174,
+            734,
+            294
+        ]
+    },
+    {
+        "bg_name": "wally_bg_85.jpg",
+        "class": 1,
+        "bbox": [
+            441,
+            413,
+            590,
+            533
+        ]
+    },
+    {
+        "bg_name": "wally_bg_81.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_42.jpg",
+        "class": 1,
+        "bbox": [
+            595,
+            61,
+            744,
+            181
+        ]
+    },
+    {
+        "bg_name": "wally_bg_56.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_57.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_43.jpg",
+        "class": 1,
+        "bbox": [
+            312,
+            136,
+            461,
+            256
+        ]
+    },
+    {
+        "bg_name": "wally_bg_80.jpg",
+        "class": 1,
+        "bbox": [
+            489,
+            380,
+            638,
+            500
+        ]
+    },
+    {
+        "bg_name": "wally_bg_82.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_55.jpg",
+        "class": 1,
+        "bbox": [
+            646,
+            247,
+            795,
+            367
+        ]
+    },
+    {
+        "bg_name": "wally_bg_41.jpg",
+        "class": 1,
+        "bbox": [
+            534,
+            398,
+            683,
+            518
+        ]
+    },
+    {
+        "bg_name": "wally_bg_69.jpg",
+        "class": 1,
+        "bbox": [
+            399,
+            195,
+            548,
+            315
+        ]
+    },
+    {
+        "bg_name": "wally_bg_68.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_40.jpg",
+        "class": 1,
+        "bbox": [
+            244,
+            107,
+            393,
+            227
+        ]
+    },
+    {
+        "bg_name": "wally_bg_54.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_83.jpg",
+        "class": 1,
+        "bbox": [
+            171,
+            140,
+            320,
+            260
+        ]
+    },
+    {
+        "bg_name": "wally_bg_3.jpg",
+        "class": 1,
+        "bbox": [
+            132,
+            449,
+            281,
+            569
+        ]
+    },
+    {
+        "bg_name": "wally_bg_33.jpg",
+        "class": 1,
+        "bbox": [
+            287,
+            337,
+            436,
+            457
+        ]
+    },
+    {
+        "bg_name": "wally_bg_26.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_32.jpg",
+        "class": 1,
+        "bbox": [
+            35,
+            165,
+            184,
+            285
+        ]
+    },
+    {
+        "bg_name": "wally_bg_2.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_18.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_24.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_30.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_31.jpg",
+        "class": 1,
+        "bbox": [
+            229,
+            43,
+            378,
+            163
+        ]
+    },
+    {
+        "bg_name": "wally_bg_19.jpg",
+        "class": 1,
+        "bbox": [
+            155,
+            336,
+            304,
+            456
+        ]
+    },
+    {
+        "bg_name": "wally_bg_1.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_5.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_21.jpg",
+        "class": 1,
+        "bbox": [
+            437,
+            339,
+            586,
+            459
+        ]
+    },
+    {
+        "bg_name": "wally_bg_34.jpg",
+        "class": 1,
+        "bbox": [
+            429,
+            342,
+            578,
+            462
+        ]
+    },
+    {
+        "bg_name": "wally_bg_20.jpg",
+        "class": 1,
+        "bbox": [
+            456,
+            364,
+            605,
+            484
+        ]
+    },
+    {
+        "bg_name": "wally_bg_4.jpg",
+        "class": 1,
+        "bbox": [
+            78,
+            27,
+            227,
+            147
+        ]
+    },
+    {
+        "bg_name": "wally_bg_6.jpg",
+        "class": 1,
+        "bbox": [
+            222,
+            406,
+            371,
+            526
+        ]
+    },
+    {
+        "bg_name": "wally_bg_22.jpg",
+        "class": 1,
+        "bbox": [
+            447,
+            87,
+            596,
+            207
+        ]
+    },
+    {
+        "bg_name": "wally_bg_23.jpg",
+        "class": 1,
+        "bbox": [
+            563,
+            300,
+            712,
+            420
+        ]
+    },
+    {
+        "bg_name": "wally_bg_7.jpg",
+        "class": 1,
+        "bbox": [
+            534,
+            72,
+            683,
+            192
+        ]
+    },
+    {
+        "bg_name": "wally_bg_12.jpg",
+        "class": 1,
+        "bbox": [
+            482,
+            421,
+            631,
+            541
+        ]
+    },
+    {
+        "bg_name": "wally_bg_13.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_9.jpg",
+        "class": 1,
+        "bbox": [
+            261,
+            380,
+            410,
+            500
+        ]
+    },
+    {
+        "bg_name": "wally_bg_39.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_11.jpg",
+        "class": 1,
+        "bbox": [
+            150,
+            44,
+            299,
+            164
+        ]
+    },
+    {
+        "bg_name": "wally_bg_10.jpg",
+        "class": 1,
+        "bbox": [
+            172,
+            334,
+            321,
+            454
+        ]
+    },
+    {
+        "bg_name": "wally_bg_38.jpg",
+        "class": 1,
+        "bbox": [
+            583,
+            470,
+            732,
+            590
+        ]
+    },
+    {
+        "bg_name": "wally_bg_8.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_14.jpg",
+        "class": 1,
+        "bbox": [
+            641,
+            439,
+            790,
+            559
+        ]
+    },
+    {
+        "bg_name": "wally_bg_28.jpg",
+        "class": 1,
+        "bbox": [
+            170,
+            103,
+            319,
+            223
+        ]
+    },
+    {
+        "bg_name": "wally_bg_29.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_15.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_17.jpg",
+        "class": 1,
+        "bbox": [
+            185,
+            212,
+            334,
+            332
+        ]
+    },
+    {
+        "bg_name": "wally_bg_16.jpg",
+        "class": 1,
+        "bbox": [
+            164,
+            170,
+            313,
+            290
+        ]
+    },
+    {
+        "bg_name": "wally_bg_59.jpg",
+        "class": 1,
+        "bbox": [
+            389,
+            101,
+            538,
+            221
+        ]
+    },
+    {
+        "bg_name": "wally_bg_71.jpg",
+        "class": 1,
+        "bbox": [
+            212,
+            46,
+            361,
+            166
+        ]
+    },
+    {
+        "bg_name": "wally_bg_65.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_64.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_70.jpg",
+        "class": 1,
+        "bbox": [
+            369,
+            412,
+            518,
+            532
+        ]
+    },
+    {
+        "bg_name": "wally_bg_58.jpg",
+        "class": 1,
+        "bbox": [
+            588,
+            236,
+            737,
+            356
+        ]
+    },
+    {
+        "bg_name": "wally_bg_66.jpg",
+        "class": 1,
+        "bbox": [
+            442,
+            177,
+            591,
+            297
+        ]
+    },
+    {
+        "bg_name": "wally_bg_72.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_73.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_67.jpg",
+        "class": 1,
+        "bbox": [
+            128,
+            118,
+            277,
+            238
+        ]
+    },
+    {
+        "bg_name": "wally_bg_88.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_63.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_77.jpg",
+        "class": 1,
+        "bbox": [
+            466,
+            229,
+            615,
+            349
+        ]
+    },
+    {
+        "bg_name": "wally_bg_76.jpg",
+        "class": 1,
+        "bbox": [
+            379,
+            393,
+            528,
+            513
+        ]
+    },
+    {
+        "bg_name": "wally_bg_62.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_89.jpg",
+        "class": 1,
+        "bbox": [
+            525,
+            338,
+            674,
+            458
+        ]
+    },
+    {
+        "bg_name": "wally_bg_74.jpg",
+        "class": 1,
+        "bbox": [
+            473,
+            61,
+            622,
+            181
+        ]
+    },
+    {
+        "bg_name": "wally_bg_60.jpg",
+        "class": 1,
+        "bbox": [
+            329,
+            229,
+            478,
+            349
+        ]
+    },
+    {
+        "bg_name": "wally_bg_48.jpg",
+        "class": 1,
+        "bbox": [
+            263,
+            100,
+            412,
+            220
+        ]
+    },
+    {
+        "bg_name": "wally_bg_49.jpg",
+        "class": 1,
+        "bbox": [
+            513,
+            227,
+            662,
+            347
+        ]
+    },
+    {
+        "bg_name": "wally_bg_61.jpg",
+        "class": 1,
+        "bbox": [
+            546,
+            138,
+            695,
+            258
+        ]
+    },
+    {
+        "bg_name": "wally_bg_75.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_25.jpeg",
+        "class": 1,
+        "bbox": [
+            342,
+            339,
+            491,
+            459
+        ]
+    },
+    {
+        "bg_name": "wally_bg_35.jpeg",
+        "class": 1,
+        "bbox": [
+            216,
+            23,
+            365,
+            143
+        ]
+    },
+    {
+        "bg_name": "wally_bg_37.jpeg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_36.jpeg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_27.jpeg",
+        "class": 1,
+        "bbox": [
+            383,
+            308,
+            532,
+            428
+        ]
+    },
+    {
+        "bg_name": "wally_bg_87.jpg",
+        "class": 1,
+        "bbox": [
+            208,
+            303,
+            357,
+            423
+        ]
+    },
+    {
+        "bg_name": "wally_bg_78.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_50.jpg",
+        "class": 1,
+        "bbox": [
+            453,
+            387,
+            602,
+            507
+        ]
+    },
+    {
+        "bg_name": "wally_bg_44.jpg",
+        "class": 1,
+        "bbox": [
+            368,
+            183,
+            517,
+            303
+        ]
+    },
+    {
+        "bg_name": "wally_bg_45.jpg",
+        "class": 1,
+        "bbox": [
+            76,
+            344,
+            225,
+            464
+        ]
+    },
+    {
+        "bg_name": "wally_bg_51.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_79.jpg",
+        "class": 1,
+        "bbox": [
+            642,
+            108,
+            791,
+            228
+        ]
+    },
+    {
+        "bg_name": "wally_bg_86.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_84.jpg",
+        "class": 1,
+        "bbox": [
+            603,
+            143,
+            752,
+            263
+        ]
+    },
+    {
+        "bg_name": "wally_bg_90.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_47.jpg",
+        "class": 1,
+        "bbox": [
+            155,
+            475,
+            304,
+            595
+        ]
+    },
+    {
+        "bg_name": "wally_bg_53.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_52.jpg",
+        "class": 1,
+        "bbox": [
+            521,
+            222,
+            670,
+            342
+        ]
+    },
+    {
+        "bg_name": "wally_bg_46.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_85.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_81.jpg",
+        "class": 1,
+        "bbox": [
+            129,
+            187,
+            278,
+            307
+        ]
+    },
+    {
+        "bg_name": "wally_bg_42.jpg",
+        "class": 1,
+        "bbox": [
+            180,
+            62,
+            329,
+            182
+        ]
+    },
+    {
+        "bg_name": "wally_bg_56.jpg",
+        "class": 1,
+        "bbox": [
+            92,
+            42,
+            241,
+            162
+        ]
+    },
+    {
+        "bg_name": "wally_bg_57.jpg",
+        "class": 1,
+        "bbox": [
+            262,
+            366,
+            411,
+            486
+        ]
+    },
+    {
+        "bg_name": "wally_bg_43.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_80.jpg",
+        "class": 1,
+        "bbox": [
+            91,
+            25,
+            240,
+            145
+        ]
+    },
+    {
+        "bg_name": "wally_bg_82.jpg",
+        "class": 1,
+        "bbox": [
+            483,
+            21,
+            632,
+            141
+        ]
+    },
+    {
+        "bg_name": "wally_bg_55.jpg",
+        "class": 1,
+        "bbox": [
+            506,
+            160,
+            655,
+            280
+        ]
+    },
+    {
+        "bg_name": "wally_bg_41.jpg",
+        "class": 1,
+        "bbox": [
+            611,
+            86,
+            760,
+            206
+        ]
+    },
+    {
+        "bg_name": "wally_bg_69.jpg",
+        "class": 1,
+        "bbox": [
+            227,
+            16,
+            376,
+            136
+        ]
+    },
+    {
+        "bg_name": "wally_bg_68.jpg",
+        "class": 1,
+        "bbox": [
+            133,
+            391,
+            282,
+            511
+        ]
+    },
+    {
+        "bg_name": "wally_bg_40.jpg",
+        "class": 1,
+        "bbox": [
+            189,
+            142,
+            338,
+            262
+        ]
+    },
+    {
+        "bg_name": "wally_bg_54.jpg",
+        "class": 1,
+        "bbox": [
+            116,
+            384,
+            265,
+            504
+        ]
+    },
+    {
+        "bg_name": "wally_bg_83.jpg",
+        "class": 1,
+        "bbox": [
+            167,
+            234,
+            316,
+            354
+        ]
+    },
+    {
+        "bg_name": "wally_bg_3.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_33.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_26.jpg",
+        "class": 1,
+        "bbox": [
+            297,
+            156,
+            446,
+            276
+        ]
+    },
+    {
+        "bg_name": "wally_bg_32.jpg",
+        "class": 1,
+        "bbox": [
+            326,
+            322,
+            475,
+            442
+        ]
+    },
+    {
+        "bg_name": "wally_bg_2.jpg",
+        "class": 1,
+        "bbox": [
+            201,
+            103,
+            350,
+            223
+        ]
+    },
+    {
+        "bg_name": "wally_bg_18.jpg",
+        "class": 1,
+        "bbox": [
+            295,
+            74,
+            444,
+            194
+        ]
+    },
+    {
+        "bg_name": "wally_bg_24.jpg",
+        "class": 1,
+        "bbox": [
+            355,
+            193,
+            504,
+            313
+        ]
+    },
+    {
+        "bg_name": "wally_bg_30.jpg",
+        "class": 1,
+        "bbox": [
+            514,
+            216,
+            663,
+            336
+        ]
+    },
+    {
+        "bg_name": "wally_bg_31.jpg",
+        "class": 1,
+        "bbox": [
+            17,
+            82,
+            166,
+            202
+        ]
+    },
+    {
+        "bg_name": "wally_bg_19.jpg",
+        "class": 1,
+        "bbox": [
+            548,
+            224,
+            697,
+            344
+        ]
+    },
+    {
+        "bg_name": "wally_bg_1.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_5.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_21.jpg",
+        "class": 1,
+        "bbox": [
+            399,
+            257,
+            548,
+            377
+        ]
+    },
+    {
+        "bg_name": "wally_bg_34.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_20.jpg",
+        "class": 1,
+        "bbox": [
+            606,
+            40,
+            755,
+            160
+        ]
+    },
+    {
+        "bg_name": "wally_bg_4.jpg",
+        "class": 1,
+        "bbox": [
+            101,
+            32,
+            250,
+            152
+        ]
+    },
+    {
+        "bg_name": "wally_bg_6.jpg",
+        "class": 1,
+        "bbox": [
+            373,
+            192,
+            522,
+            312
+        ]
+    },
+    {
+        "bg_name": "wally_bg_22.jpg",
+        "class": 1,
+        "bbox": [
+            10,
+            445,
+            159,
+            565
+        ]
+    },
+    {
+        "bg_name": "wally_bg_23.jpg",
+        "class": 1,
+        "bbox": [
+            353,
+            437,
+            502,
+            557
+        ]
+    },
+    {
+        "bg_name": "wally_bg_7.jpg",
+        "class": 1,
+        "bbox": [
+            271,
+            128,
+            420,
+            248
+        ]
+    },
+    {
+        "bg_name": "wally_bg_12.jpg",
+        "class": 1,
+        "bbox": [
+            570,
+            471,
+            719,
+            591
+        ]
+    },
+    {
+        "bg_name": "wally_bg_13.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_9.jpg",
+        "class": 1,
+        "bbox": [
+            157,
+            52,
+            306,
+            172
+        ]
+    },
+    {
+        "bg_name": "wally_bg_39.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_11.jpg",
+        "class": 1,
+        "bbox": [
+            185,
+            155,
+            334,
+            275
+        ]
+    },
+    {
+        "bg_name": "wally_bg_10.jpg",
+        "class": 1,
+        "bbox": [
+            428,
+            120,
+            577,
+            240
+        ]
+    },
+    {
+        "bg_name": "wally_bg_38.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_8.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_14.jpg",
+        "class": 1,
+        "bbox": [
+            351,
+            151,
+            500,
+            271
+        ]
+    },
+    {
+        "bg_name": "wally_bg_28.jpg",
+        "class": 1,
+        "bbox": [
+            322,
+            33,
+            471,
+            153
+        ]
+    },
+    {
+        "bg_name": "wally_bg_29.jpg",
+        "class": 1,
+        "bbox": [
+            78,
+            406,
+            227,
+            526
+        ]
+    },
+    {
+        "bg_name": "wally_bg_15.jpg",
+        "class": 1,
+        "bbox": [
+            617,
+            356,
+            766,
+            476
+        ]
+    },
+    {
+        "bg_name": "wally_bg_17.jpg",
+        "class": 1,
+        "bbox": [
+            131,
+            161,
+            280,
+            281
+        ]
+    },
+    {
+        "bg_name": "wally_bg_16.jpg",
+        "class": 1,
+        "bbox": [
+            393,
+            416,
+            542,
+            536
+        ]
+    },
+    {
+        "bg_name": "wally_bg_59.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_71.jpg",
+        "class": 1,
+        "bbox": [
+            253,
+            458,
+            402,
+            578
+        ]
+    },
+    {
+        "bg_name": "wally_bg_65.jpg",
+        "class": 1,
+        "bbox": [
+            520,
+            212,
+            669,
+            332
+        ]
+    },
+    {
+        "bg_name": "wally_bg_64.jpg",
+        "class": 1,
+        "bbox": [
+            418,
+            256,
+            567,
+            376
+        ]
+    },
+    {
+        "bg_name": "wally_bg_70.jpg",
+        "class": 1,
+        "bbox": [
+            345,
+            281,
+            494,
+            401
+        ]
+    },
+    {
+        "bg_name": "wally_bg_58.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_66.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_72.jpg",
+        "class": 1,
+        "bbox": [
+            297,
+            152,
+            446,
+            272
+        ]
+    },
+    {
+        "bg_name": "wally_bg_73.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_67.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_88.jpg",
+        "class": 1,
+        "bbox": [
+            478,
+            360,
+            627,
+            480
+        ]
+    },
+    {
+        "bg_name": "wally_bg_63.jpg",
+        "class": 1,
+        "bbox": [
+            505,
+            421,
+            654,
+            541
+        ]
+    },
+    {
+        "bg_name": "wally_bg_77.jpg",
+        "class": 1,
+        "bbox": [
+            355,
+            241,
+            504,
+            361
+        ]
+    },
+    {
+        "bg_name": "wally_bg_76.jpg",
+        "class": 1,
+        "bbox": [
+            587,
+            373,
+            736,
+            493
+        ]
+    },
+    {
+        "bg_name": "wally_bg_62.jpg",
+        "class": 1,
+        "bbox": [
+            367,
+            53,
+            516,
+            173
+        ]
+    },
+    {
+        "bg_name": "wally_bg_89.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_74.jpg",
+        "class": 1,
+        "bbox": [
+            441,
+            215,
+            590,
+            335
+        ]
+    },
+    {
+        "bg_name": "wally_bg_60.jpg",
+        "class": 1,
+        "bbox": [
+            576,
+            400,
+            725,
+            520
+        ]
+    },
+    {
+        "bg_name": "wally_bg_48.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_49.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_61.jpg",
+        "class": 1,
+        "bbox": [
+            551,
+            391,
+            700,
+            511
+        ]
+    },
+    {
+        "bg_name": "wally_bg_75.jpg",
+        "class": 1,
+        "bbox": [
+            244,
+            306,
+            393,
+            426
+        ]
+    },
+    {
+        "bg_name": "wally_bg_25.jpeg",
+        "class": 1,
+        "bbox": [
+            17,
+            43,
+            166,
+            163
+        ]
+    },
+    {
+        "bg_name": "wally_bg_35.jpeg",
+        "class": 1,
+        "bbox": [
+            69,
+            74,
+            218,
+            194
+        ]
+    },
+    {
+        "bg_name": "wally_bg_37.jpeg",
+        "class": 1,
+        "bbox": [
+            475,
+            180,
+            624,
+            300
+        ]
+    },
+    {
+        "bg_name": "wally_bg_36.jpeg",
+        "class": 1,
+        "bbox": [
+            18,
+            424,
+            167,
+            544
+        ]
+    },
+    {
+        "bg_name": "wally_bg_27.jpeg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_87.jpg",
+        "class": 1,
+        "bbox": [
+            63,
+            18,
+            212,
+            138
+        ]
+    },
+    {
+        "bg_name": "wally_bg_78.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_50.jpg",
+        "class": 1,
+        "bbox": [
+            553,
+            211,
+            702,
+            331
+        ]
+    },
+    {
+        "bg_name": "wally_bg_44.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_45.jpg",
+        "class": 1,
+        "bbox": [
+            569,
+            150,
+            718,
+            270
+        ]
+    },
+    {
+        "bg_name": "wally_bg_51.jpg",
+        "class": 1,
+        "bbox": [
+            325,
+            16,
+            474,
+            136
+        ]
+    },
+    {
+        "bg_name": "wally_bg_79.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_86.jpg",
+        "class": 1,
+        "bbox": [
+            95,
+            433,
+            244,
+            553
+        ]
+    },
+    {
+        "bg_name": "wally_bg_84.jpg",
+        "class": 1,
+        "bbox": [
+            574,
+            237,
+            723,
+            357
+        ]
+    },
+    {
+        "bg_name": "wally_bg_90.jpg",
+        "class": 1,
+        "bbox": [
+            449,
+            110,
+            598,
+            230
+        ]
+    },
+    {
+        "bg_name": "wally_bg_47.jpg",
+        "class": 1,
+        "bbox": [
+            467,
+            9,
+            616,
+            129
+        ]
+    },
+    {
+        "bg_name": "wally_bg_53.jpg",
+        "class": 1,
+        "bbox": [
+            190,
+            285,
+            339,
+            405
+        ]
+    },
+    {
+        "bg_name": "wally_bg_52.jpg",
+        "class": 1,
+        "bbox": [
+            591,
+            82,
+            740,
+            202
+        ]
+    },
+    {
+        "bg_name": "wally_bg_46.jpg",
+        "class": 1,
+        "bbox": [
+            200,
+            105,
+            349,
+            225
+        ]
+    },
+    {
+        "bg_name": "wally_bg_85.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_81.jpg",
+        "class": 1,
+        "bbox": [
+            238,
+            119,
+            387,
+            239
+        ]
+    },
+    {
+        "bg_name": "wally_bg_42.jpg",
+        "class": 1,
+        "bbox": [
+            576,
+            225,
+            725,
+            345
+        ]
+    },
+    {
+        "bg_name": "wally_bg_56.jpg",
+        "class": 1,
+        "bbox": [
+            362,
+            268,
+            511,
+            388
+        ]
+    },
+    {
+        "bg_name": "wally_bg_57.jpg",
+        "class": 1,
+        "bbox": [
+            317,
+            414,
+            466,
+            534
+        ]
+    },
+    {
+        "bg_name": "wally_bg_43.jpg",
+        "class": 1,
+        "bbox": [
+            321,
+            31,
+            470,
+            151
+        ]
+    },
+    {
+        "bg_name": "wally_bg_80.jpg",
+        "class": 1,
+        "bbox": [
+            164,
+            395,
+            313,
+            515
+        ]
+    },
+    {
+        "bg_name": "wally_bg_82.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_55.jpg",
+        "class": 1,
+        "bbox": [
+            412,
+            27,
+            561,
+            147
+        ]
+    },
+    {
+        "bg_name": "wally_bg_41.jpg",
+        "class": 1,
+        "bbox": [
+            426,
+            360,
+            575,
+            480
+        ]
+    },
+    {
+        "bg_name": "wally_bg_69.jpg",
+        "class": 1,
+        "bbox": [
+            241,
+            3,
+            390,
+            123
+        ]
+    },
+    {
+        "bg_name": "wally_bg_68.jpg",
+        "class": 1,
+        "bbox": [
+            365,
+            196,
+            514,
+            316
+        ]
+    },
+    {
+        "bg_name": "wally_bg_40.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_54.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_83.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_3.jpg",
+        "class": 1,
+        "bbox": [
+            428,
+            361,
+            577,
+            481
+        ]
+    },
+    {
+        "bg_name": "wally_bg_33.jpg",
+        "class": 1,
+        "bbox": [
+            19,
+            72,
+            168,
+            192
+        ]
+    },
+    {
+        "bg_name": "wally_bg_26.jpg",
+        "class": 1,
+        "bbox": [
+            388,
+            318,
+            537,
+            438
+        ]
+    },
+    {
+        "bg_name": "wally_bg_32.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_2.jpg",
+        "class": 1,
+        "bbox": [
+            408,
+            214,
+            557,
+            334
+        ]
+    },
+    {
+        "bg_name": "wally_bg_18.jpg",
+        "class": 1,
+        "bbox": [
+            559,
+            103,
+            708,
+            223
+        ]
+    },
+    {
+        "bg_name": "wally_bg_24.jpg",
+        "class": 1,
+        "bbox": [
+            345,
+            460,
+            494,
+            580
+        ]
+    },
+    {
+        "bg_name": "wally_bg_30.jpg",
+        "class": 1,
+        "bbox": [
+            560,
+            397,
+            709,
+            517
+        ]
+    },
+    {
+        "bg_name": "wally_bg_31.jpg",
+        "class": 1,
+        "bbox": [
+            630,
+            234,
+            779,
+            354
+        ]
+    },
+    {
+        "bg_name": "wally_bg_19.jpg",
+        "class": 1,
+        "bbox": [
+            113,
+            323,
+            262,
+            443
+        ]
+    },
+    {
+        "bg_name": "wally_bg_1.jpg",
+        "class": 1,
+        "bbox": [
+            415,
+            336,
+            564,
+            456
+        ]
+    },
+    {
+        "bg_name": "wally_bg_5.jpg",
+        "class": 1,
+        "bbox": [
+            269,
+            400,
+            418,
+            520
+        ]
+    },
+    {
+        "bg_name": "wally_bg_21.jpg",
+        "class": 1,
+        "bbox": [
+            323,
+            138,
+            472,
+            258
+        ]
+    },
+    {
+        "bg_name": "wally_bg_34.jpg",
+        "class": 1,
+        "bbox": [
+            422,
+            374,
+            571,
+            494
+        ]
+    },
+    {
+        "bg_name": "wally_bg_20.jpg",
+        "class": 1,
+        "bbox": [
+            622,
+            228,
+            771,
+            348
+        ]
+    },
+    {
+        "bg_name": "wally_bg_4.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_6.jpg",
+        "class": 1,
+        "bbox": [
+            145,
+            21,
+            294,
+            141
+        ]
+    },
+    {
+        "bg_name": "wally_bg_22.jpg",
+        "class": 1,
+        "bbox": [
+            141,
+            468,
+            290,
+            588
+        ]
+    },
+    {
+        "bg_name": "wally_bg_23.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_7.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_12.jpg",
+        "class": 1,
+        "bbox": [
+            370,
+            332,
+            519,
+            452
+        ]
+    },
+    {
+        "bg_name": "wally_bg_13.jpg",
+        "class": 1,
+        "bbox": [
+            406,
+            25,
+            555,
+            145
+        ]
+    },
+    {
+        "bg_name": "wally_bg_9.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_39.jpg",
+        "class": 1,
+        "bbox": [
+            298,
+            45,
+            447,
+            165
+        ]
+    },
+    {
+        "bg_name": "wally_bg_11.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_10.jpg",
+        "class": 1,
+        "bbox": [
+            515,
+            84,
+            664,
+            204
+        ]
+    },
+    {
+        "bg_name": "wally_bg_38.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_8.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_14.jpg",
+        "class": 1,
+        "bbox": [
+            607,
+            398,
+            756,
+            518
+        ]
+    },
+    {
+        "bg_name": "wally_bg_28.jpg",
+        "class": 1,
+        "bbox": [
+            576,
+            115,
+            725,
+            235
+        ]
+    },
+    {
+        "bg_name": "wally_bg_29.jpg",
+        "class": 1,
+        "bbox": [
+            306,
+            35,
+            455,
+            155
+        ]
+    },
+    {
+        "bg_name": "wally_bg_15.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_17.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_16.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_59.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_71.jpg",
+        "class": 1,
+        "bbox": [
+            136,
+            292,
+            285,
+            412
+        ]
+    },
+    {
+        "bg_name": "wally_bg_65.jpg",
+        "class": 1,
+        "bbox": [
+            53,
+            412,
+            202,
+            532
+        ]
+    },
+    {
+        "bg_name": "wally_bg_64.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_70.jpg",
+        "class": 1,
+        "bbox": [
+            290,
+            390,
+            439,
+            510
+        ]
+    },
+    {
+        "bg_name": "wally_bg_58.jpg",
+        "class": 1,
+        "bbox": [
+            54,
+            135,
+            203,
+            255
+        ]
+    },
+    {
+        "bg_name": "wally_bg_66.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_72.jpg",
+        "class": 1,
+        "bbox": [
+            185,
+            87,
+            334,
+            207
+        ]
+    },
+    {
+        "bg_name": "wally_bg_73.jpg",
+        "class": 1,
+        "bbox": [
+            140,
+            422,
+            289,
+            542
+        ]
+    },
+    {
+        "bg_name": "wally_bg_67.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_88.jpg",
+        "class": 1,
+        "bbox": [
+            412,
+            189,
+            561,
+            309
+        ]
+    },
+    {
+        "bg_name": "wally_bg_63.jpg",
+        "class": 1,
+        "bbox": [
+            616,
+            275,
+            765,
+            395
+        ]
+    },
+    {
+        "bg_name": "wally_bg_77.jpg",
+        "class": 1,
+        "bbox": [
+            198,
+            345,
+            347,
+            465
+        ]
+    },
+    {
+        "bg_name": "wally_bg_76.jpg",
+        "class": 1,
+        "bbox": [
+            613,
+            285,
+            762,
+            405
+        ]
+    },
+    {
+        "bg_name": "wally_bg_62.jpg",
+        "class": 1,
+        "bbox": [
+            437,
+            134,
+            586,
+            254
+        ]
+    },
+    {
+        "bg_name": "wally_bg_89.jpg",
+        "class": 1,
+        "bbox": [
+            26,
+            234,
+            175,
+            354
+        ]
+    },
+    {
+        "bg_name": "wally_bg_74.jpg",
+        "class": 1,
+        "bbox": [
+            275,
+            469,
+            424,
+            589
+        ]
+    },
+    {
+        "bg_name": "wally_bg_60.jpg",
+        "class": 1,
+        "bbox": [
+            167,
+            69,
+            316,
+            189
+        ]
+    },
+    {
+        "bg_name": "wally_bg_48.jpg",
+        "class": 1,
+        "bbox": [
+            493,
+            461,
+            642,
+            581
+        ]
+    },
+    {
+        "bg_name": "wally_bg_49.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_61.jpg",
+        "class": 1,
+        "bbox": [
+            603,
+            5,
+            752,
+            125
+        ]
+    },
+    {
+        "bg_name": "wally_bg_75.jpg",
+        "class": 1,
+        "bbox": [
+            341,
+            144,
+            490,
+            264
+        ]
+    },
+    {
+        "bg_name": "wally_bg_25.jpeg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_35.jpeg",
+        "class": 1,
+        "bbox": [
+            52,
+            459,
+            201,
+            579
+        ]
+    },
+    {
+        "bg_name": "wally_bg_37.jpeg",
+        "class": 1,
+        "bbox": [
+            147,
+            425,
+            296,
+            545
+        ]
+    },
+    {
+        "bg_name": "wally_bg_36.jpeg",
+        "class": 1,
+        "bbox": [
+            570,
+            180,
+            719,
+            300
+        ]
+    },
+    {
+        "bg_name": "wally_bg_27.jpeg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_87.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_78.jpg",
+        "class": 1,
+        "bbox": [
+            407,
+            361,
+            556,
+            481
+        ]
+    },
+    {
+        "bg_name": "wally_bg_50.jpg",
+        "class": 1,
+        "bbox": [
+            440,
+            181,
+            589,
+            301
+        ]
+    },
+    {
+        "bg_name": "wally_bg_44.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_45.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_51.jpg",
+        "class": 1,
+        "bbox": [
+            431,
+            207,
+            580,
+            327
+        ]
+    },
+    {
+        "bg_name": "wally_bg_79.jpg",
+        "class": 1,
+        "bbox": [
+            101,
+            211,
+            250,
+            331
+        ]
+    },
+    {
+        "bg_name": "wally_bg_86.jpg",
+        "class": 1,
+        "bbox": [
+            458,
+            300,
+            607,
+            420
+        ]
+    },
+    {
+        "bg_name": "wally_bg_84.jpg",
+        "class": 1,
+        "bbox": [
+            197,
+            416,
+            346,
+            536
+        ]
+    },
+    {
+        "bg_name": "wally_bg_90.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_47.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_53.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_52.jpg",
+        "class": 1,
+        "bbox": [
+            53,
+            53,
+            202,
+            173
+        ]
+    },
+    {
+        "bg_name": "wally_bg_46.jpg",
+        "class": 1,
+        "bbox": [
+            217,
+            145,
+            366,
+            265
+        ]
+    },
+    {
+        "bg_name": "wally_bg_85.jpg",
+        "class": 1,
+        "bbox": [
+            594,
+            57,
+            743,
+            177
+        ]
+    },
+    {
+        "bg_name": "wally_bg_81.jpg",
+        "class": 1,
+        "bbox": [
+            198,
+            72,
+            347,
+            192
+        ]
+    },
+    {
+        "bg_name": "wally_bg_42.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_56.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_57.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_43.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_80.jpg",
+        "class": 1,
+        "bbox": [
+            126,
+            287,
+            275,
+            407
+        ]
+    },
+    {
+        "bg_name": "wally_bg_82.jpg",
+        "class": 1,
+        "bbox": [
+            195,
+            371,
+            344,
+            491
+        ]
+    },
+    {
+        "bg_name": "wally_bg_55.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_41.jpg",
+        "class": 1,
+        "bbox": [
+            232,
+            383,
+            381,
+            503
+        ]
+    },
+    {
+        "bg_name": "wally_bg_69.jpg",
+        "class": 1,
+        "bbox": [
+            583,
+            408,
+            732,
+            528
+        ]
+    },
+    {
+        "bg_name": "wally_bg_68.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_40.jpg",
+        "class": 1,
+        "bbox": [
+            587,
+            201,
+            736,
+            321
+        ]
+    },
+    {
+        "bg_name": "wally_bg_54.jpg",
+        "class": 1,
+        "bbox": [
+            76,
+            341,
+            225,
+            461
+        ]
+    },
+    {
+        "bg_name": "wally_bg_83.jpg",
+        "class": 1,
+        "bbox": [
+            493,
+            216,
+            642,
+            336
+        ]
+    },
+    {
+        "bg_name": "wally_bg_3.jpg",
+        "class": 1,
+        "bbox": [
+            479,
+            221,
+            628,
+            341
+        ]
+    },
+    {
+        "bg_name": "wally_bg_33.jpg",
+        "class": 1,
+        "bbox": [
+            94,
+            372,
+            243,
+            492
+        ]
+    },
+    {
+        "bg_name": "wally_bg_26.jpg",
+        "class": 1,
+        "bbox": [
+            147,
+            475,
+            296,
+            595
+        ]
+    },
+    {
+        "bg_name": "wally_bg_32.jpg",
+        "class": 1,
+        "bbox": [
+            348,
+            183,
+            497,
+            303
+        ]
+    },
+    {
+        "bg_name": "wally_bg_2.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_18.jpg",
+        "class": 1,
+        "bbox": [
+            308,
+            406,
+            457,
+            526
+        ]
+    },
+    {
+        "bg_name": "wally_bg_24.jpg",
+        "class": 1,
+        "bbox": [
+            404,
+            316,
+            553,
+            436
+        ]
+    },
+    {
+        "bg_name": "wally_bg_30.jpg",
+        "class": 1,
+        "bbox": [
+            151,
+            218,
+            300,
+            338
+        ]
+    },
+    {
+        "bg_name": "wally_bg_31.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_19.jpg",
+        "class": 1,
+        "bbox": [
+            506,
+            11,
+            655,
+            131
+        ]
+    },
+    {
+        "bg_name": "wally_bg_1.jpg",
+        "class": 1,
+        "bbox": [
+            59,
+            33,
+            208,
+            153
+        ]
+    },
+    {
+        "bg_name": "wally_bg_5.jpg",
+        "class": 1,
+        "bbox": [
+            263,
+            346,
+            412,
+            466
+        ]
+    },
+    {
+        "bg_name": "wally_bg_21.jpg",
+        "class": 1,
+        "bbox": [
+            253,
+            188,
+            402,
+            308
+        ]
+    },
+    {
+        "bg_name": "wally_bg_34.jpg",
+        "class": 1,
+        "bbox": [
+            537,
+            380,
+            686,
+            500
+        ]
+    },
+    {
+        "bg_name": "wally_bg_20.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_4.jpg",
+        "class": 1,
+        "bbox": [
+            560,
+            237,
+            709,
+            357
+        ]
+    },
+    {
+        "bg_name": "wally_bg_6.jpg",
+        "class": 1,
+        "bbox": [
+            162,
+            68,
+            311,
+            188
+        ]
+    },
+    {
+        "bg_name": "wally_bg_22.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_23.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_7.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_12.jpg",
+        "class": 1,
+        "bbox": [
+            178,
+            143,
+            327,
+            263
+        ]
+    },
+    {
+        "bg_name": "wally_bg_13.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_9.jpg",
+        "class": 1,
+        "bbox": [
+            426,
+            266,
+            575,
+            386
+        ]
+    },
+    {
+        "bg_name": "wally_bg_39.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_11.jpg",
+        "class": 1,
+        "bbox": [
+            457,
+            22,
+            606,
+            142
+        ]
+    },
+    {
+        "bg_name": "wally_bg_10.jpg",
+        "class": 1,
+        "bbox": [
+            247,
+            418,
+            396,
+            538
+        ]
+    },
+    {
+        "bg_name": "wally_bg_38.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_8.jpg",
+        "class": 1,
+        "bbox": [
+            503,
+            359,
+            652,
+            479
+        ]
+    },
+    {
+        "bg_name": "wally_bg_14.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_28.jpg",
+        "class": 1,
+        "bbox": [
+            49,
+            197,
+            198,
+            317
+        ]
+    },
+    {
+        "bg_name": "wally_bg_29.jpg",
+        "class": 1,
+        "bbox": [
+            355,
+            143,
+            504,
+            263
+        ]
+    },
+    {
+        "bg_name": "wally_bg_15.jpg",
+        "class": 1,
+        "bbox": [
+            580,
+            468,
+            729,
+            588
+        ]
+    },
+    {
+        "bg_name": "wally_bg_17.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_16.jpg",
+        "class": 1,
+        "bbox": [
+            152,
+            262,
+            301,
+            382
+        ]
+    },
+    {
+        "bg_name": "wally_bg_59.jpg",
+        "class": 1,
+        "bbox": [
+            11,
+            84,
+            160,
+            204
+        ]
+    },
+    {
+        "bg_name": "wally_bg_71.jpg",
+        "class": 1,
+        "bbox": [
+            284,
+            389,
+            433,
+            509
+        ]
+    },
+    {
+        "bg_name": "wally_bg_65.jpg",
+        "class": 1,
+        "bbox": [
+            245,
+            113,
+            394,
+            233
+        ]
+    },
+    {
+        "bg_name": "wally_bg_64.jpg",
+        "class": 1,
+        "bbox": [
+            72,
+            335,
+            221,
+            455
+        ]
+    },
+    {
+        "bg_name": "wally_bg_70.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_58.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_66.jpg",
+        "class": 1,
+        "bbox": [
+            43,
+            50,
+            192,
+            170
+        ]
+    },
+    {
+        "bg_name": "wally_bg_72.jpg",
+        "class": 1,
+        "bbox": [
+            533,
+            40,
+            682,
+            160
+        ]
+    },
+    {
+        "bg_name": "wally_bg_73.jpg",
+        "class": 1,
+        "bbox": [
+            347,
+            387,
+            496,
+            507
+        ]
+    },
+    {
+        "bg_name": "wally_bg_67.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_88.jpg",
+        "class": 1,
+        "bbox": [
+            148,
+            22,
+            297,
+            142
+        ]
+    },
+    {
+        "bg_name": "wally_bg_63.jpg",
+        "class": 1,
+        "bbox": [
+            600,
+            154,
+            749,
+            274
+        ]
+    },
+    {
+        "bg_name": "wally_bg_77.jpg",
+        "class": 1,
+        "bbox": [
+            620,
+            192,
+            769,
+            312
+        ]
+    },
+    {
+        "bg_name": "wally_bg_76.jpg",
+        "class": 1,
+        "bbox": [
+            594,
+            394,
+            743,
+            514
+        ]
+    },
+    {
+        "bg_name": "wally_bg_62.jpg",
+        "class": 1,
+        "bbox": [
+            250,
+            306,
+            399,
+            426
+        ]
+    },
+    {
+        "bg_name": "wally_bg_89.jpg",
+        "class": 1,
+        "bbox": [
+            330,
+            471,
+            479,
+            591
+        ]
+    },
+    {
+        "bg_name": "wally_bg_74.jpg",
+        "class": 1,
+        "bbox": [
+            531,
+            449,
+            680,
+            569
+        ]
+    },
+    {
+        "bg_name": "wally_bg_60.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_48.jpg",
+        "class": 1,
+        "bbox": [
+            201,
+            447,
+            350,
+            567
+        ]
+    },
+    {
+        "bg_name": "wally_bg_49.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_61.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_75.jpg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_25.jpeg",
+        "class": 1,
+        "bbox": [
+            71,
+            210,
+            220,
+            330
+        ]
+    },
+    {
+        "bg_name": "wally_bg_35.jpeg",
+        "class": 1,
+        "bbox": [
+            148,
+            12,
+            297,
+            132
+        ]
+    },
+    {
+        "bg_name": "wally_bg_37.jpeg",
+        "class": 0
+    },
+    {
+        "bg_name": "wally_bg_36.jpeg",
+        "class": 1,
+        "bbox": [
+            99,
+            470,
+            248,
+            590
+        ]
+    },
+    {
+        "bg_name": "wally_bg_27.jpeg",
+        "class": 1,
+        "bbox": [
+            477,
+            149,
+            626,
+            269
+        ]
+    }
+]
