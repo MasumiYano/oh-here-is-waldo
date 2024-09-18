@@ -1,4 +1,5 @@
 from PIL import Image
+import PIL
 import glob
 import os
 import random
@@ -28,20 +29,23 @@ class ImagePreprocessing:
 
         self.background_paths = glob.glob('data/images/*.jpg') + glob.glob('data/images/*.jpeg')
         self.resized_backgrounds = []
-        self.waldo_and_backgrounds = []
+        self.waldo_and_backgrounds = {}
 
     def resize_background(self):
         for background in self.background_paths:
-            bg_img = Image.open(background)
-            bg_width, bg_height = bg_img.size
+            try:
+                bg_img = Image.open(background)
+                bg_width, bg_height = bg_img.size
 
-            if bg_width != self.image_width or bg_height != self.image_height:
-                resized_bg = bg_img.resize(
-                    (self.image_width, self.image_height),
-                    Image.LANCZOS
-                )
-            else:
-                resized_bg = bg_img.copy()
+                if bg_width != self.image_width or bg_height != self.image_height:
+                    resized_bg = bg_img.resize(
+                        (self.image_width, self.image_height),
+                        Image.LANCZOS
+                    )
+                else:
+                    resized_bg = bg_img.copy()
+            except PIL.UnidentifiedImageError as e:
+                print(f"Something went wrong on {background}, err: {e}")
 
             self.resized_backgrounds.append((resized_bg, background))
 
@@ -60,10 +64,12 @@ class ImagePreprocessing:
                 bg.paste(self.waldo, (x_pos, y_pos), self.waldo)
 
             self._mark_waldo_pos(x_pos, y_pos, waldo_width, waldo_height, bg_filename, include)
-            self.waldo_and_backgrounds.append(bg)
+            bg_file = bg_filename.split("/")[-1]
+            self.waldo_and_backgrounds[bg_file] = bg
 
     def convert_to_numpyarray(self):
-        self.waldo_and_backgrounds = [np.array(image) for image in self.waldo_and_backgrounds]
+        for file_name, background in self.waldo_and_backgrounds.items():
+            self.waldo_and_backgrounds[file_name] = np.array(background)
 
     def _mark_waldo_pos(self, x_pos, y_pos, waldo_width, waldo_height, bg_filename, include):
         file_path = os.path.join(os.getcwd(), "data", "notation.json")
