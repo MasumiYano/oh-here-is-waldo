@@ -44,8 +44,8 @@ class ImagePreprocessing:
                     )
                 else:
                     resized_bg = bg_img.copy()
-            except PIL.UnidentifiedImageError as e:
-                print(f"Something went wrong on {background}, err: {e}")
+            except Exception as e:
+                print(f"err: {e}")
 
             self.resized_backgrounds.append((resized_bg, background))
 
@@ -101,3 +101,4 @@ class ImagePreprocessing:
 
         with open(file_path, 'w') as file:
             json.dump(existing_data, file, indent=4)
+

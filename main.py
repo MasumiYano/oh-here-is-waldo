@@ -11,9 +11,6 @@ def main():
     json_data = load_json("data/notation.json")
     show_image(preprocessing.waldo_and_backgrounds, json_data)
 
-    for file_name, background in preprocessing.waldo_and_backgrounds.items():
-        print(f"file name: {file_name}")
-
 
 if __name__ == "__main__":
     main()
