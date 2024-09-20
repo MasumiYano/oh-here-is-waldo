@@ -1,3 +1,4 @@
+import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
@@ -18,7 +19,7 @@ def compute_loss(class_pred, class_true, bbox_pred, bbox_true):
 
 def calculate_iou(bbox_pred, bbox_true):
     # Intersection coordinates
-    x1 = torch.max(boox_pred[:, 0], bbox_true[:, 0])
+    x1 = torch.max(bbox_pred[:, 0], bbox_true[:, 0])
     y1 = torch.max(bbox_pred[:, 1], bbox_true[:, 1])
     x2 = torch.max(bbox_pred[:, 2], bbox_true[:, 2])
     y2 = torch.max(bbox_pred[:, 3], bbox_true[:, 3])
