@@ -1,4 +1,4 @@
-
+import random
 from PIL import Image
 import os
 import matplotlib.pyplot as plt
@@ -61,9 +61,6 @@ def update_bbox_after_flip(bbox, img_width):
     new_x1 = img_width - x2
     new_x2 = img_width - x1
     return [new_x1, y1, new_x2, y2]
-
-
-import random
 
 
 def augment_image(image_dict, json_data):
