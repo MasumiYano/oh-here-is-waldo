@@ -9,7 +9,8 @@ import torchvision.transforms as T
 
 transform = T.Compose([
     T.RandomHorizontalFlip(p=1),  # Horizontal flip with 50% chance
-    T.ColorJitter(hue=0.5)          # Random hue adjustment
+    T.ColorJitter(hue=0.5),          # Random hue adjustment
+    T.ToTensor()  # convert to torch tensor
 ])
 
 
