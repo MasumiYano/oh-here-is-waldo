@@ -121,3 +121,24 @@ def get_name(img_name, json):
                 return data.get("class"), data.get("bbox")
             else:
                 return data.get("class"), [0, 0, 0, 0]
+
+
+def plot_graph(step_losses, step_acc):
+    plt.figure(figsize=(10, 5))
+    plt.subplot(1, 2, 1)
+    plt.plot(step_losses, label="Loss")
+    plt.xlabel('Steps (x50)')
+    plt.ylabel('Loss')
+    plt.title("Training Loss")
+    plt.legend()
+
+    plt.subplot(1, 2, 2)
+    plt.plot(step_acc, label="Accuracy")
+    plt.xlabel('Steps (x50)')
+    plt.ylabel('Accuracy')
+    plt.title("Training Accuracy")
+    plt.legend()
+
+    plt.tight_layout()
+    plt.show
+
