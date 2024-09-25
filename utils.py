@@ -112,3 +112,12 @@ def augment_image(image_dict, json_data):
         json.dump(updated_json_data, json_file, indent=4)
 
     return shuffled_image_dict  # Return the shuffled image dictionary
+
+
+def get_name(img_name, json):
+    for data in json:
+        if data.get("bg_name") == img_name:
+            if data.get("class") == 1:
+                return data.get("class"), data.get("bbox")
+            else:
+                return data.get("class"), [0, 0, 0, 0]

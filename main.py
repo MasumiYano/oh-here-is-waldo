@@ -1,9 +1,10 @@
 from image_preprocessing import ImagePreprocessing
-from utils import show_image, load_json, augment_image
+from utils import show_image, load_json, augment_image, get_name
 import torch
 import torch.optim as optim
 from models import VGG16
 from config import EPOCH
+import torch.nn as nn
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
 
@@ -27,12 +28,20 @@ def main():
 
     model = VGG16(device, 2)
     optimizer = optim.Adam(model.parameters(), lr=0.0001, momentum=0.9)
+    criterion = nn.BCEWithLogitsLoss()
 
     for epoch in range(EPOCH):
         total_losses = []
         total_accs = []
         for i, (name, tensor) in enumerate(train_data.items(), 0):
-            inputs, labels = tesnor, get_name(name)
+            inputs = tensor
+            labels = get_name(name, augmented_json)
+            optimizer.zero_grad()
+
+            outputs = model(inputs)
+            loss = criterion(outputs, labels)
+            loss.backword()
+            optimizer.step()
 
 
 if __name__ == "__main__":
