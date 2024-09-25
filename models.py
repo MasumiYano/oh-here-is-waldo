@@ -9,7 +9,7 @@ criterion_regression = nn.SmoothL1Loss()
 def compute_loss(class_pred, class_true, bbox_pred, bbox_true):
     classification_loss = criterion_classification(class_pred, class_true)
 
-    iou = calculate_iou(boox_pred, bbox_true)
+    iou = calculate_iou(bbox_pred, bbox_true)
     bbox_loss = 1 - iou.mean()
 
     total_loss = classification_loss + 0.5 * bbox_loss
