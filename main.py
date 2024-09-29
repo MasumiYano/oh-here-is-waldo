@@ -1,5 +1,5 @@
 from image_preprocessing import ImagePreprocessing
-from utils import show_image, load_json, augment_image, get_name
+from utils import show_image, load_json, augment_image, get_name, plot_graph
 import torch
 import torch.optim as optim
 from models import VGG16, compute_loss
@@ -47,7 +47,7 @@ def main():
             optimizer.zero_grad()
 
             class_pred, bbox_pred = model(inputs)
-            loss = model.compute_loss(class_pred, class_true, bbox_pred, bbox_true)
+            loss = compute_loss(class_pred, class_true, bbox_pred, bbox_true)
             loss.backward()
             optimizer.step()
 
