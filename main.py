@@ -27,7 +27,7 @@ def main():
     train_data, test_data = dict(items[:split_idx]), dict(items[split_idx:])
 
     model = VGG16(device, 2).to(device)
-    optimizer = optim.Adam(model.parameters(), lr=0.0001, weight_decay=0.01)
+    optimizer = optim.adam(model.parameters(), lr=0.0001, weight_decay=0.01)
 
     step_losses = []
     step_accuraceis = []
