@@ -18,21 +18,27 @@ def compute_loss(class_pred, class_true, bbox_pred, bbox_true):
 
 def calculate_iou(bbox_pred, bbox_true):
     # Intersection coordinates
+    # Top-left corner: take the maximum of both boxes' top-left corners
     x1 = torch.max(bbox_pred[:, 0], bbox_true[:, 0])
     y1 = torch.max(bbox_pred[:, 1], bbox_true[:, 1])
-    x2 = torch.max(bbox_pred[:, 2], bbox_true[:, 2])
-    y2 = torch.max(bbox_pred[:, 3], bbox_true[:, 3])
+    
+    # Bottom-right corner: take the minimum of both boxes' bottom-right corners
+    x2 = torch.min(bbox_pred[:, 2], bbox_true[:, 2])
+    y2 = torch.min(bbox_pred[:, 3], bbox_true[:, 3])
 
-    # intedrsection area
+    # Calculate intersection area
+    # Use clamp to ensure non-negative values (if boxes don't overlap, intersection is 0)
     intersection = (x2 - x1).clamp(0) * (y2 - y1).clamp(0)
 
-    # areas of bbox
+    # Calculate areas of both bounding boxes
     bbox_pred_area = (bbox_pred[:, 2] - bbox_pred[:, 0]) * (bbox_pred[:, 3] - bbox_pred[:, 1])
     bbox_true_area = (bbox_true[:, 2] - bbox_true[:, 0]) * (bbox_true[:, 3] - bbox_true[:, 1])
 
+    # Calculate union area
     union = bbox_pred_area + bbox_true_area - intersection
 
-    iou = intersection / union.clamp(min=1e-6)  # no devision by 0
+    # Calculate IoU, add small epsilon to avoid division by zero
+    iou = intersection / union.clamp(min=1e-6)
 
     return iou
 
@@ -46,7 +52,7 @@ class VGG16(nn.Module):
         self.conv_block_1 = nn.Sequential(
             nn.Conv2d(in_channels=3, out_channels=64, kernel_size=3, padding=1),
             nn.ReLU(inplace=True),
-            nn.Conv2d(in_channels=64, out_channels=64, kernel_size=3),
+            nn.Conv2d(in_channels=64, out_channels=64, kernel_size=3, padding=1),
             nn.ReLU(inplace=True),
             nn.MaxPool2d(kernel_size=2, stride=2),
         )
